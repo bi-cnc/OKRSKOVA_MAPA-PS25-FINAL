@@ -1,8 +1,11 @@
-ñÓx
+ÿªx
 mapa_okrsku(€ CIS_OBEC
-CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sledekVÃ­tÄ›z"
-AUTO"
-Obec"
+CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sledekVÃ­tÄ›z"
+ANO"
+SPD"
+Obec"
+STAN"
+SPOLU"
 546062"
 546160"
 562971"
@@ -25,10 +28,7 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 563501"
 566870"
 567027"
-567299"
-VÃZVA"
-Koruna ÄŒeskÃ¡"
-Nevolte Urza.cz"
+567299"
 Most - okrsek Ä. 1"
 Blatno - okrsek Ä. 1"
 Jirkov - okrsek Ä. 1"
@@ -102,82 +102,82 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 VysokÃ¡ Pec - okrsek Ä. 1"
 DrouÅ¾kovice - okrsek Ä. 1"
 MalÃ© BÅ™ezno - okrsek Ä. 1"
-VelemyÅ¡leves - okrsek Ä. 1"ƒ
-€AUTO (191 hl., 34,23 %) | Nevolte Urza.cz (119 hl., 21,33 %) | Koruna ÄŒeskÃ¡ (80 hl., 14,34 %) | VÃZVA (66 hl., 11,83 %) | Å vÃ½carskÃ¡ dem. (25 hl., 4,48 %) | Volt (18 hl., 3,23 %) | SMSka (16 hl., 2,87 %) | PÅ˜ÃSAHA (13 hl., 2,33 %) | JaSaN (10 hl., 1,79 %) | RebelovÃ© (8 hl., 1,43 %) | BPS (8 hl., 1,43 %) | MZH (2 hl., 0,36 %) | ÄŒR1 (1 hl., 0,18 %) | Generace (1 hl., 0,18 %)"„
-AUTO (171 hl., 33,33 %) | Nevolte Urza.cz (109 hl., 21,25 %) | Koruna ÄŒeskÃ¡ (97 hl., 18,91 %) | VÃZVA (39 hl., 7,6 %) | Å vÃ½carskÃ¡ dem. (24 hl., 4,68 %) | PÅ˜ÃSAHA (20 hl., 3,9 %) | SMSka (14 hl., 2,73 %) | Volt (14 hl., 2,73 %) | RebelovÃ© (11 hl., 2,14 %) | Levice (4 hl., 0,78 %) | BPS (4 hl., 0,78 %) | JaSaN (3 hl., 0,58 %) | ÄŒSSD (1 hl., 0,19 %) | Generace (1 hl., 0,19 %)"
-‹AUTO (53 hl., 49,07 %) | VÃZVA (25 hl., 23,15 %) | Nevolte Urza.cz (15 hl., 13,89 %) | Koruna ÄŒeskÃ¡ (5 hl., 4,63 %) | RebelovÃ© (2 hl., 1,85 %) | PÅ˜ÃSAHA (2 hl., 1,85 %) | Volt (2 hl., 1,85 %) | BPS (2 hl., 1,85 %) | MZH (1 hl., 0,93 %) | PirÃ¡ti (1 hl., 0,93 %)"“
-AUTO (170 hl., 38,29 %) | VÃZVA (89 hl., 20,05 %) | Nevolte Urza.cz (62 hl., 13,96 %) | Koruna ÄŒeskÃ¡ (47 hl., 10,59 %) | Volt (19 hl., 4,28 %) | SMSka (13 hl., 2,93 %) | PÅ˜ÃSAHA (12 hl., 2,7 %) | RebelovÃ© (9 hl., 2,03 %) | Å vÃ½carskÃ¡ dem. (9 hl., 2,03 %) | JaSaN (4 hl., 0,9 %) | BPS (4 hl., 0,9 %) | ÄŒSSD (3 hl., 0,68 %) | MZH (1 hl., 0,23 %) | Levice (1 hl., 0,23 %) | ÄŒR1 (1 hl., 0,23 %)"•
-’AUTO (236 hl., 34,6 %) | Nevolte Urza.cz (173 hl., 25,37 %) | Koruna ÄŒeskÃ¡ (86 hl., 12,61 %) | VÃZVA (61 hl., 8,94 %) | Volt (36 hl., 5,28 %) | Å vÃ½carskÃ¡ dem. (31 hl., 4,55 %) | SMSka (30 hl., 4,4 %) | PÅ˜ÃSAHA (13 hl., 1,91 %) | RebelovÃ© (5 hl., 0,73 %) | BPS (3 hl., 0,44 %) | JaSaN (2 hl., 0,29 %) | Levice (2 hl., 0,29 %) | ÄŒR1 (2 hl., 0,29 %) | MZH (1 hl., 0,15 %) | ÄŒSSD (1 hl., 0,15 %)"–
-“AUTO (42 hl., 33,6 %) | VÃZVA (17 hl., 13,6 %) | Nevolte Urza.cz (17 hl., 13,6 %) | Koruna ÄŒeskÃ¡ (15 hl., 12,0 %) | Volt (14 hl., 11,2 %) | JaSaN (8 hl., 6,4 %) | PÅ˜ÃSAHA (8 hl., 6,4 %) | Å vÃ½carskÃ¡ dem. (2 hl., 1,6 %) | RebelovÃ© (1 hl., 0,8 %) | SMSka (1 hl., 0,8 %)"—
-”AUTO (56 hl., 47,46 %) | VÃZVA (16 hl., 13,56 %) | Koruna ÄŒeskÃ¡ (14 hl., 11,86 %) | Nevolte Urza.cz (11 hl., 9,32 %) | SMSka (7 hl., 5,93 %) | Å vÃ½carskÃ¡ dem. (6 hl., 5,08 %) | Volt (4 hl., 3,39 %) | BPS (2 hl., 1,69 %) | JaSaN (1 hl., 0,85 %) | PÅ˜ÃSAHA (1 hl., 0,85 %)"˜
-•AUTO (231 hl., 34,74 %) | Nevolte Urza.cz (168 hl., 25,26 %) | Koruna ÄŒeskÃ¡ (81 hl., 12,18 %) | VÃZVA (71 hl., 10,68 %) | Volt (39 hl., 5,86 %) | Å vÃ½carskÃ¡ dem. (25 hl., 3,76 %) | SMSka (13 hl., 1,95 %) | PÅ˜ÃSAHA (11 hl., 1,65 %) | RebelovÃ© (9 hl., 1,35 %) | JaSaN (6 hl., 0,9 %) | Levice (3 hl., 0,45 %) | Generace (3 hl., 0,45 %) | MZH (2 hl., 0,3 %) | BPS (2 hl., 0,3 %) | ÄŒR1 (1 hl., 0,15 %)"˜
-•AUTO (254 hl., 31,79 %) | Nevolte Urza.cz (209 hl., 26,16 %) | Koruna ÄŒeskÃ¡ (105 hl., 13,14 %) | VÃZVA (69 hl., 8,64 %) | Å vÃ½carskÃ¡ dem. (47 hl., 5,88 %) | Volt (26 hl., 3,25 %) | PÅ˜ÃSAHA (25 hl., 3,13 %) | SMSka (24 hl., 3,0 %) | RebelovÃ© (13 hl., 1,63 %) | JaSaN (12 hl., 1,5 %) | BPS (5 hl., 0,63 %) | MZH (3 hl., 0,38 %) | Levice (3 hl., 0,38 %) | ÄŒSSD (2 hl., 0,25 %) | ÄŒR1 (2 hl., 0,25 %)"™
-–AUTO (227 hl., 35,64 %) | Nevolte Urza.cz (106 hl., 16,64 %) | VÃZVA (98 hl., 15,38 %) | Koruna ÄŒeskÃ¡ (61 hl., 9,58 %) | Volt (41 hl., 6,44 %) | Å vÃ½carskÃ¡ dem. (32 hl., 5,02 %) | SMSka (20 hl., 3,14 %) | JaSaN (13 hl., 2,04 %) | PÅ˜ÃSAHA (13 hl., 2,04 %) | RebelovÃ© (11 hl., 1,73 %) | MZH (5 hl., 0,78 %) | BPS (4 hl., 0,63 %) | ÄŒSSD (2 hl., 0,31 %) | Levice (2 hl., 0,31 %) | ÄŒR1 (1 hl., 0,16 %)"š
-—VÃZVA (62 hl., 16,76 %) | Nevolte Urza.cz (33 hl., 8,92 %) | Volt (29 hl., 7,84 %) | Å vÃ½carskÃ¡ dem. (24 hl., 6,49 %) | Koruna ÄŒeskÃ¡ (19 hl., 5,14 %) | SMSka (18 hl., 4,86 %) | PÅ˜ÃSAHA (9 hl., 2,43 %) | BPS (3 hl., 0,81 %) | JaSaN (1 hl., 0,27 %) | PirÃ¡ti (1 hl., 0,27 %)"š
-—AUTO (149 hl., 27,95 %) | Nevolte Urza.cz (122 hl., 22,89 %) | Koruna ÄŒeskÃ¡ (86 hl., 16,14 %) | VÃZVA (47 hl., 8,82 %) | Å vÃ½carskÃ¡ dem. (36 hl., 6,75 %) | PÅ˜ÃSAHA (31 hl., 5,82 %) | Volt (16 hl., 3,0 %) | SMSka (14 hl., 2,63 %) | JaSaN (11 hl., 2,06 %) | RebelovÃ© (9 hl., 1,69 %) | BPS (4 hl., 0,75 %) | Levice (3 hl., 0,56 %) | MZH (2 hl., 0,38 %) | Generace (2 hl., 0,38 %) | ÄŒR1 (1 hl., 0,19 %)"›
-˜AUTO (182 hl., 34,6 %) | Nevolte Urza.cz (102 hl., 19,39 %) | Koruna ÄŒeskÃ¡ (78 hl., 14,83 %) | VÃZVA (58 hl., 11,03 %) | Volt (30 hl., 5,7 %) | SMSka (26 hl., 4,94 %) | Å vÃ½carskÃ¡ dem. (22 hl., 4,18 %) | RebelovÃ© (5 hl., 0,95 %) | JaSaN (5 hl., 0,95 %) | BPS (2 hl., 0,38 %)"›
-˜AUTO (257 hl., 41,65 %) | Nevolte Urza.cz (112 hl., 18,15 %) | VÃZVA (77 hl., 12,48 %) | Koruna ÄŒeskÃ¡ (63 hl., 10,21 %) | Å vÃ½carskÃ¡ dem. (34 hl., 5,51 %) | PÅ˜ÃSAHA (19 hl., 3,08 %) | Volt (18 hl., 2,92 %) | SMSka (15 hl., 2,43 %) | JaSaN (7 hl., 1,13 %) | BPS (4 hl., 0,65 %) | RebelovÃ© (3 hl., 0,49 %) | ÄŒR1 (3 hl., 0,49 %) | Levice (2 hl., 0,32 %) | Generace (2 hl., 0,32 %) | MZH (1 hl., 0,16 %)"œ
-™AUTO (34 hl., 32,38 %) | VÃZVA (17 hl., 16,19 %) | Koruna ÄŒeskÃ¡ (16 hl., 15,24 %) | Nevolte Urza.cz (14 hl., 13,33 %) | Å vÃ½carskÃ¡ dem. (9 hl., 8,57 %) | SMSka (5 hl., 4,76 %) | PÅ˜ÃSAHA (5 hl., 4,76 %) | RebelovÃ© (2 hl., 1,9 %) | JaSaN (2 hl., 1,9 %) | Volt (1 hl., 0,95 %)"
-šAUTO (255 hl., 36,32 %) | Nevolte Urza.cz (152 hl., 21,65 %) | Koruna ÄŒeskÃ¡ (88 hl., 12,54 %) | VÃZVA (58 hl., 8,26 %) | Å vÃ½carskÃ¡ dem. (43 hl., 6,13 %) | Volt (24 hl., 3,42 %) | SMSka (23 hl., 3,28 %) | PÅ˜ÃSAHA (14 hl., 1,99 %) | RebelovÃ© (13 hl., 1,85 %) | JaSaN (12 hl., 1,71 %) | BPS (10 hl., 1,42 %) | MZH (6 hl., 0,85 %) | PirÃ¡ti (2 hl., 0,28 %) | ÄŒSSD (1 hl., 0,14 %) | Levice (1 hl., 0,14 %)"
-šAUTO (264 hl., 33,42 %) | Nevolte Urza.cz (178 hl., 22,53 %) | VÃZVA (104 hl., 13,16 %) | Koruna ÄŒeskÃ¡ (100 hl., 12,66 %) | Å vÃ½carskÃ¡ dem. (36 hl., 4,56 %) | Volt (36 hl., 4,56 %) | SMSka (29 hl., 3,67 %) | PÅ˜ÃSAHA (20 hl., 2,53 %) | RebelovÃ© (7 hl., 0,89 %) | JaSaN (5 hl., 0,63 %) | ÄŒR1 (5 hl., 0,63 %) | Levice (2 hl., 0,25 %) | BPS (2 hl., 0,25 %) | MZH (1 hl., 0,13 %) | Generace (1 hl., 0,13 %)"
-›AUTO (182 hl., 34,47 %) | Nevolte Urza.cz (101 hl., 19,13 %) | Koruna ÄŒeskÃ¡ (83 hl., 15,72 %) | VÃZVA (50 hl., 9,47 %) | Volt (30 hl., 5,68 %) | SMSka (24 hl., 4,55 %) | Å vÃ½carskÃ¡ dem. (22 hl., 4,17 %) | PÅ˜ÃSAHA (13 hl., 2,46 %) | JaSaN (10 hl., 1,89 %) | BPS (4 hl., 0,76 %)"
-›AUTO (195 hl., 43,72 %) | VÃZVA (65 hl., 14,57 %) | Nevolte Urza.cz (46 hl., 10,31 %) | Koruna ÄŒeskÃ¡ (32 hl., 7,17 %) | Volt (26 hl., 5,83 %) | JaSaN (18 hl., 4,04 %) | PÅ˜ÃSAHA (18 hl., 4,04 %) | Å vÃ½carskÃ¡ dem. (18 hl., 4,04 %) | SMSka (12 hl., 2,69 %) | RebelovÃ© (7 hl., 1,57 %) | BPS (3 hl., 0,67 %) | Levice (2 hl., 0,45 %) | ÄŒR1 (2 hl., 0,45 %) | Generace (1 hl., 0,22 %) | PirÃ¡ti (1 hl., 0,22 %)"Ÿ
-œAUTO (267 hl., 37,82 %) | VÃZVA (114 hl., 16,15 %) | Nevolte Urza.cz (109 hl., 15,44 %) | Koruna ÄŒeskÃ¡ (57 hl., 8,07 %) | Volt (46 hl., 6,52 %) | Å vÃ½carskÃ¡ dem. (31 hl., 4,39 %) | SMSka (30 hl., 4,25 %) | JaSaN (14 hl., 1,98 %) | RebelovÃ© (12 hl., 1,7 %) | PÅ˜ÃSAHA (11 hl., 1,56 %) | Levice (5 hl., 0,71 %) | MZH (3 hl., 0,42 %) | BPS (3 hl., 0,42 %) | Generace (2 hl., 0,28 %) | PirÃ¡ti (2 hl., 0,28 %)"®
-«AUTO (231 hl., 34,79 %) | Nevolte Urza.cz (140 hl., 21,08 %) | Koruna ÄŒeskÃ¡ (91 hl., 13,7 %) | VÃZVA (66 hl., 9,94 %) | Å vÃ½carskÃ¡ dem. (37 hl., 5,57 %) | SMSka (29 hl., 4,37 %) | Volt (24 hl., 3,61 %) | PÅ˜ÃSAHA (22 hl., 3,31 %) | RebelovÃ© (5 hl., 0,75 %) | JaSaN (5 hl., 0,75 %) | BPS (5 hl., 0,75 %) | MZH (3 hl., 0,45 %) | Levice (2 hl., 0,3 %) | PirÃ¡ti (2 hl., 0,3 %) | ÄŒSSD (1 hl., 0,15 %) | ÄŒR1 (1 hl., 0,15 %)"²
-¯AUTO (98 hl., 27,68 %) | Nevolte Urza.cz (79 hl., 22,32 %) | VÃZVA (61 hl., 17,23 %) | Koruna ÄŒeskÃ¡ (47 hl., 13,28 %) | SMSka (18 hl., 5,08 %) | Å vÃ½carskÃ¡ dem. (14 hl., 3,95 %) | Volt (13 hl., 3,67 %) | JaSaN (6 hl., 1,69 %) | RebelovÃ© (4 hl., 1,13 %) | PÅ˜ÃSAHA (3 hl., 0,85 %) | BPS (3 hl., 0,85 %) | MZH (2 hl., 0,56 %) | Levice (2 hl., 0,56 %) | Generace (2 hl., 0,56 %) | ÄŒR1 (1 hl., 0,28 %) | PirÃ¡ti (1 hl., 0,28 %)"³
-°AUTO (185 hl., 34,77 %) | Nevolte Urza.cz (110 hl., 20,68 %) | Koruna ÄŒeskÃ¡ (73 hl., 13,72 %) | VÃZVA (50 hl., 9,4 %) | Volt (32 hl., 6,02 %) | Å vÃ½carskÃ¡ dem. (24 hl., 4,51 %) | PÅ˜ÃSAHA (20 hl., 3,76 %) | SMSka (12 hl., 2,26 %) | MZH (5 hl., 0,94 %) | JaSaN (4 hl., 0,75 %) | ÄŒR1 (2 hl., 0,38 %)"³
-°AUTO (223 hl., 33,18 %) | Nevolte Urza.cz (157 hl., 23,36 %) | VÃZVA (71 hl., 10,57 %) | Koruna ÄŒeskÃ¡ (65 hl., 9,67 %) | Å vÃ½carskÃ¡ dem. (48 hl., 7,14 %) | Volt (35 hl., 5,21 %) | PÅ˜ÃSAHA (20 hl., 2,98 %) | SMSka (17 hl., 2,53 %) | RebelovÃ© (15 hl., 2,23 %) | JaSaN (5 hl., 0,74 %) | Generace (5 hl., 0,74 %) | BPS (5 hl., 0,74 %) | Levice (2 hl., 0,3 %) | PirÃ¡ti (2 hl., 0,3 %) | MZH (1 hl., 0,15 %) | ÄŒR1 (1 hl., 0,15 %)"´
-±AUTO (41 hl., 28,08 %) | Nevolte Urza.cz (26 hl., 17,81 %) | Koruna ÄŒeskÃ¡ (23 hl., 15,75 %) | Volt (19 hl., 13,01 %) | VÃZVA (17 hl., 11,64 %) | SMSka (7 hl., 4,79 %) | Å vÃ½carskÃ¡ dem. (5 hl., 3,42 %) | PÅ˜ÃSAHA (4 hl., 2,74 %) | RebelovÃ© (2 hl., 1,37 %) | MZH (1 hl., 0,68 %) | BPS (1 hl., 0,68 %)"µ
-²Nevolte Urza.cz (118 hl., 36,53 %) | AUTO (73 hl., 22,6 %) | Koruna ÄŒeskÃ¡ (52 hl., 16,1 %) | VÃZVA (25 hl., 7,74 %) | PÅ˜ÃSAHA (16 hl., 4,95 %) | Å vÃ½carskÃ¡ dem. (12 hl., 3,72 %) | Volt (12 hl., 3,72 %) | SMSka (8 hl., 2,48 %) | RebelovÃ© (4 hl., 1,24 %) | BPS (2 hl., 0,62 %) | ÄŒSSD (1 hl., 0,31 %)"¶
-³AUTO (230 hl., 35,71 %) | VÃZVA (119 hl., 18,48 %) | Nevolte Urza.cz (80 hl., 12,42 %) | Koruna ÄŒeskÃ¡ (71 hl., 11,02 %) | Å vÃ½carskÃ¡ dem. (34 hl., 5,28 %) | Volt (29 hl., 4,5 %) | JaSaN (22 hl., 3,42 %) | PÅ˜ÃSAHA (21 hl., 3,26 %) | SMSka (16 hl., 2,48 %) | BPS (7 hl., 1,09 %) | RebelovÃ© (6 hl., 0,93 %) | Levice (3 hl., 0,47 %) | Generace (3 hl., 0,47 %) | MZH (1 hl., 0,16 %) | ÄŒSSD (1 hl., 0,16 %) | PirÃ¡ti (1 hl., 0,16 %)"¸
-µAUTO (190 hl., 35,58 %) | VÃZVA (105 hl., 19,66 %) | Nevolte Urza.cz (74 hl., 13,86 %) | Koruna ÄŒeskÃ¡ (53 hl., 9,93 %) | Å vÃ½carskÃ¡ dem. (29 hl., 5,43 %) | SMSka (21 hl., 3,93 %) | JaSaN (14 hl., 2,62 %) | RebelovÃ© (13 hl., 2,43 %) | PÅ˜ÃSAHA (12 hl., 2,25 %) | Volt (11 hl., 2,06 %) | BPS (5 hl., 0,94 %) | Levice (2 hl., 0,37 %) | ÄŒR1 (2 hl., 0,37 %) | ÄŒSSD (1 hl., 0,19 %) | Generace (1 hl., 0,19 %) | PirÃ¡ti (1 hl., 0,19 %)"º
-·AUTO (183 hl., 36,24 %) | Nevolte Urza.cz (112 hl., 22,18 %) | Koruna ÄŒeskÃ¡ (77 hl., 15,25 %) | VÃZVA (43 hl., 8,51 %) | Volt (20 hl., 3,96 %) | PÅ˜ÃSAHA (18 hl., 3,56 %) | Å vÃ½carskÃ¡ dem. (18 hl., 3,56 %) | SMSka (13 hl., 2,57 %) | JaSaN (10 hl., 1,98 %) | RebelovÃ© (9 hl., 1,78 %) | ÄŒR1 (1 hl., 0,2 %)"Ê
-ÇAUTO (146 hl., 46,5 %) | VÃZVA (57 hl., 18,15 %) | Nevolte Urza.cz (30 hl., 9,55 %) | Koruna ÄŒeskÃ¡ (22 hl., 7,01 %) | Volt (16 hl., 5,1 %) | Å vÃ½carskÃ¡ dem. (14 hl., 4,46 %) | SMSka (11 hl., 3,5 %) | PÅ˜ÃSAHA (6 hl., 1,91 %) | RebelovÃ© (5 hl., 1,59 %) | JaSaN (3 hl., 0,96 %) | BPS (3 hl., 0,96 %) | ÄŒR1 (1 hl., 0,32 %)"Ê
-ÇAUTO (182 hl., 45,39 %) | Nevolte Urza.cz (55 hl., 13,72 %) | Koruna ÄŒeskÃ¡ (46 hl., 11,47 %) | VÃZVA (39 hl., 9,73 %) | Å vÃ½carskÃ¡ dem. (23 hl., 5,74 %) | Volt (17 hl., 4,24 %) | PÅ˜ÃSAHA (14 hl., 3,49 %) | SMSka (13 hl., 3,24 %) | JaSaN (4 hl., 1,0 %) | BPS (4 hl., 1,0 %) | RebelovÃ© (2 hl., 0,5 %) | MZH (2 hl., 0,5 %)"Ë
-ÈAUTO (85 hl., 38,12 %) | VÃZVA (42 hl., 18,83 %) | Nevolte Urza.cz (21 hl., 9,42 %) | Volt (19 hl., 8,52 %) | Koruna ÄŒeskÃ¡ (17 hl., 7,62 %) | Å vÃ½carskÃ¡ dem. (16 hl., 7,17 %) | SMSka (6 hl., 2,69 %) | PÅ˜ÃSAHA (5 hl., 2,24 %) | JaSaN (4 hl., 1,79 %) | BPS (4 hl., 1,79 %) | RebelovÃ© (3 hl., 1,35 %) | ÄŒR1 (1 hl., 0,45 %)"Ë
-ÈAUTO (93 hl., 28,7 %) | Nevolte Urza.cz (72 hl., 22,22 %) | VÃZVA (43 hl., 13,27 %) | Koruna ÄŒeskÃ¡ (33 hl., 10,19 %) | PÅ˜ÃSAHA (24 hl., 7,41 %) | SMSka (19 hl., 5,86 %) | Volt (16 hl., 4,94 %) | Å vÃ½carskÃ¡ dem. (15 hl., 4,63 %) | JaSaN (4 hl., 1,23 %) | MZH (2 hl., 0,62 %) | BPS (2 hl., 0,62 %) | PirÃ¡ti (1 hl., 0,31 %)"Í
-ÊAUTO (126 hl., 36,21 %) | Nevolte Urza.cz (67 hl., 19,25 %) | VÃZVA (40 hl., 11,49 %) | Koruna ÄŒeskÃ¡ (34 hl., 9,77 %) | SMSka (17 hl., 4,89 %) | Å vÃ½carskÃ¡ dem. (17 hl., 4,89 %) | Volt (16 hl., 4,6 %) | PÅ˜ÃSAHA (15 hl., 4,31 %) | RebelovÃ© (7 hl., 2,01 %) | BPS (6 hl., 1,72 %) | JaSaN (2 hl., 0,57 %) | MZH (1 hl., 0,29 %)"Í
-ÊAUTO (156 hl., 40,1 %) | VÃZVA (77 hl., 19,79 %) | Koruna ÄŒeskÃ¡ (45 hl., 11,57 %) | Nevolte Urza.cz (38 hl., 9,77 %) | Volt (21 hl., 5,4 %) | Å vÃ½carskÃ¡ dem. (18 hl., 4,63 %) | SMSka (16 hl., 4,11 %) | RebelovÃ© (8 hl., 2,06 %) | JaSaN (4 hl., 1,03 %) | MZH (2 hl., 0,51 %) | PÅ˜ÃSAHA (2 hl., 0,51 %) | ÄŒSSD (1 hl., 0,26 %)"Í
-ÊAUTO (178 hl., 50,42 %) | VÃZVA (52 hl., 14,73 %) | Nevolte Urza.cz (43 hl., 12,18 %) | Koruna ÄŒeskÃ¡ (23 hl., 6,52 %) | JaSaN (14 hl., 3,97 %) | Volt (12 hl., 3,4 %) | SMSka (7 hl., 1,98 %) | PÅ˜ÃSAHA (7 hl., 1,98 %) | Å vÃ½carskÃ¡ dem. (7 hl., 1,98 %) | RebelovÃ© (6 hl., 1,7 %) | Levice (2 hl., 0,57 %) | BPS (2 hl., 0,57 %)"Í
-ÊAUTO (208 hl., 29,34 %) | Nevolte Urza.cz (146 hl., 20,59 %) | VÃZVA (114 hl., 16,08 %) | Koruna ÄŒeskÃ¡ (95 hl., 13,4 %) | Å vÃ½carskÃ¡ dem. (31 hl., 4,37 %) | SMSka (25 hl., 3,53 %) | Volt (22 hl., 3,1 %) | PÅ˜ÃSAHA (18 hl., 2,54 %) | JaSaN (17 hl., 2,4 %) | RebelovÃ© (12 hl., 1,69 %) | BPS (9 hl., 1,27 %) | Levice (3 hl., 0,42 %) | ÄŒSSD (3 hl., 0,42 %) | ÄŒR1 (3 hl., 0,42 %) | Generace (1 hl., 0,14 %) | PirÃ¡ti (1 hl., 0,14 %) | MZH (1 hl., 0,14 %)"Î
-ËAUTO (210 hl., 41,5 %) | VÃZVA (85 hl., 16,8 %) | Nevolte Urza.cz (71 hl., 14,03 %) | Koruna ÄŒeskÃ¡ (43 hl., 8,5 %) | Å vÃ½carskÃ¡ dem. (31 hl., 6,13 %) | Volt (28 hl., 5,53 %) | SMSka (12 hl., 2,37 %) | PÅ˜ÃSAHA (8 hl., 1,58 %) | RebelovÃ© (7 hl., 1,38 %) | BPS (7 hl., 1,38 %) | JaSaN (3 hl., 0,59 %) | Generace (1 hl., 0,2 %)"Ï
-ÌAUTO (152 hl., 38,97 %) | VÃZVA (57 hl., 14,62 %) | Nevolte Urza.cz (57 hl., 14,62 %) | Koruna ÄŒeskÃ¡ (34 hl., 8,72 %) | Volt (22 hl., 5,64 %) | SMSka (20 hl., 5,13 %) | Å vÃ½carskÃ¡ dem. (19 hl., 4,87 %) | JaSaN (11 hl., 2,82 %) | BPS (6 hl., 1,54 %) | PÅ˜ÃSAHA (4 hl., 1,03 %) | RebelovÃ© (3 hl., 0,77 %) | ÄŒR1 (3 hl., 0,77 %)"Ï
-ÌAUTO (183 hl., 46,8 %) | VÃZVA (48 hl., 12,28 %) | Nevolte Urza.cz (42 hl., 10,74 %) | Koruna ÄŒeskÃ¡ (40 hl., 10,23 %) | Volt (22 hl., 5,63 %) | Å vÃ½carskÃ¡ dem. (16 hl., 4,09 %) | SMSka (13 hl., 3,32 %) | RebelovÃ© (9 hl., 2,3 %) | JaSaN (7 hl., 1,79 %) | PÅ˜ÃSAHA (6 hl., 1,53 %) | BPS (4 hl., 1,02 %) | Levice (1 hl., 0,26 %)"Ğ
-ÍAUTO (179 hl., 34,36 %) | Nevolte Urza.cz (123 hl., 23,61 %) | Koruna ÄŒeskÃ¡ (58 hl., 11,13 %) | VÃZVA (46 hl., 8,83 %) | Å vÃ½carskÃ¡ dem. (27 hl., 5,18 %) | Volt (24 hl., 4,61 %) | SMSka (21 hl., 4,03 %) | PÅ˜ÃSAHA (16 hl., 3,07 %) | RebelovÃ© (7 hl., 1,34 %) | JaSaN (7 hl., 1,34 %) | BPS (5 hl., 0,96 %) | ÄŒR1 (3 hl., 0,58 %)"Ğ
-ÍAUTO (202 hl., 34,59 %) | Nevolte Urza.cz (109 hl., 18,66 %) | VÃZVA (73 hl., 12,5 %) | Koruna ÄŒeskÃ¡ (67 hl., 11,47 %) | Å vÃ½carskÃ¡ dem. (39 hl., 6,68 %) | Volt (31 hl., 5,31 %) | PÅ˜ÃSAHA (19 hl., 3,25 %) | SMSka (18 hl., 3,08 %) | JaSaN (12 hl., 2,05 %) | RebelovÃ© (6 hl., 1,03 %) | BPS (4 hl., 0,68 %) | MZH (3 hl., 0,51 %)"Ñ
-ÎAUTO (129 hl., 33,68 %) | Nevolte Urza.cz (77 hl., 20,1 %) | VÃZVA (54 hl., 14,1 %) | Koruna ÄŒeskÃ¡ (51 hl., 13,32 %) | Å vÃ½carskÃ¡ dem. (19 hl., 4,96 %) | Volt (17 hl., 4,44 %) | SMSka (15 hl., 3,92 %) | JaSaN (7 hl., 1,83 %) | PÅ˜ÃSAHA (6 hl., 1,57 %) | Generace (4 hl., 1,04 %) | RebelovÃ© (2 hl., 0,52 %) | BPS (2 hl., 0,52 %)"Ñ
-ÎAUTO (161 hl., 35,54 %) | Nevolte Urza.cz (101 hl., 22,3 %) | Koruna ÄŒeskÃ¡ (67 hl., 14,79 %) | VÃZVA (52 hl., 11,48 %) | Å vÃ½carskÃ¡ dem. (17 hl., 3,75 %) | Volt (17 hl., 3,75 %) | PÅ˜ÃSAHA (11 hl., 2,43 %) | SMSka (10 hl., 2,21 %) | RebelovÃ© (7 hl., 1,55 %) | JaSaN (6 hl., 1,32 %) | MZH (3 hl., 0,66 %) | ÄŒSSD (1 hl., 0,22 %)"Ò
-ÏAUTO (225 hl., 40,54 %) | Nevolte Urza.cz (100 hl., 18,02 %) | VÃZVA (61 hl., 10,99 %) | Koruna ÄŒeskÃ¡ (61 hl., 10,99 %) | Å vÃ½carskÃ¡ dem. (28 hl., 5,05 %) | Volt (25 hl., 4,5 %) | SMSka (17 hl., 3,06 %) | PÅ˜ÃSAHA (16 hl., 2,88 %) | RebelovÃ© (9 hl., 1,62 %) | BPS (6 hl., 1,08 %) | JaSaN (2 hl., 0,36 %) | Levice (1 hl., 0,18 %)"Ó
-ĞAUTO (248 hl., 38,63 %) | Nevolte Urza.cz (107 hl., 16,67 %) | Koruna ÄŒeskÃ¡ (74 hl., 11,53 %) | VÃZVA (72 hl., 11,21 %) | Å vÃ½carskÃ¡ dem. (31 hl., 4,83 %) | Volt (28 hl., 4,36 %) | SMSka (27 hl., 4,21 %) | PÅ˜ÃSAHA (26 hl., 4,05 %) | JaSaN (10 hl., 1,56 %) | BPS (9 hl., 1,4 %) | Levice (6 hl., 0,93 %) | RebelovÃ© (3 hl., 0,47 %)"Ô
-ÑAUTO (179 hl., 33,65 %) | Nevolte Urza.cz (116 hl., 21,8 %) | VÃZVA (78 hl., 14,66 %) | Koruna ÄŒeskÃ¡ (66 hl., 12,41 %) | SMSka (20 hl., 3,76 %) | Volt (18 hl., 3,38 %) | Å vÃ½carskÃ¡ dem. (17 hl., 3,2 %) | RebelovÃ© (10 hl., 1,88 %) | PÅ˜ÃSAHA (10 hl., 1,88 %) | JaSaN (7 hl., 1,32 %) | ÄŒSSD (2 hl., 0,38 %) | Levice (1 hl., 0,19 %)"Ô
-ÑAUTO (248 hl., 38,81 %) | VÃZVA (102 hl., 15,96 %) | Nevolte Urza.cz (89 hl., 13,93 %) | Koruna ÄŒeskÃ¡ (73 hl., 11,42 %) | SMSka (35 hl., 5,48 %) | Å vÃ½carskÃ¡ dem. (22 hl., 3,44 %) | PÅ˜ÃSAHA (21 hl., 3,29 %) | Volt (19 hl., 2,97 %) | JaSaN (11 hl., 1,72 %) | RebelovÃ© (8 hl., 1,25 %) | BPS (8 hl., 1,25 %) | Levice (1 hl., 0,16 %)"á
-ŞAUTO (171 hl., 51,66 %) | VÃZVA (49 hl., 14,8 %) | Nevolte Urza.cz (48 hl., 14,5 %) | Koruna ÄŒeskÃ¡ (21 hl., 6,34 %) | Volt (14 hl., 4,23 %) | Å vÃ½carskÃ¡ dem. (9 hl., 2,72 %) | PÅ˜ÃSAHA (7 hl., 2,11 %) | SMSka (5 hl., 1,51 %) | RebelovÃ© (3 hl., 0,91 %) | JaSaN (1 hl., 0,3 %) | ÄŒR1 (1 hl., 0,3 %) | Generace (1 hl., 0,3 %) | BPS (1 hl., 0,3 %)"ã
-àAUTO (152 hl., 35,43 %) | Nevolte Urza.cz (117 hl., 27,27 %) | Koruna ÄŒeskÃ¡ (45 hl., 10,49 %) | VÃZVA (34 hl., 7,93 %) | Å vÃ½carskÃ¡ dem. (23 hl., 5,36 %) | Volt (16 hl., 3,73 %) | SMSka (14 hl., 3,26 %) | PÅ˜ÃSAHA (9 hl., 2,1 %) | BPS (9 hl., 2,1 %) | RebelovÃ© (5 hl., 1,17 %) | MZH (3 hl., 0,7 %) | JaSaN (1 hl., 0,23 %) | ÄŒSSD (1 hl., 0,23 %)"å
-âAUTO (205 hl., 39,27 %) | Nevolte Urza.cz (91 hl., 17,43 %) | VÃZVA (80 hl., 15,33 %) | Koruna ÄŒeskÃ¡ (52 hl., 9,96 %) | Volt (32 hl., 6,13 %) | Å vÃ½carskÃ¡ dem. (22 hl., 4,21 %) | SMSka (12 hl., 2,3 %) | PÅ˜ÃSAHA (8 hl., 1,53 %) | JaSaN (6 hl., 1,15 %) | RebelovÃ© (5 hl., 0,96 %) | BPS (3 hl., 0,57 %) | MZH (2 hl., 0,38 %) | Levice (2 hl., 0,38 %)"å
-âKoruna ÄŒeskÃ¡ (95 hl., 41,13 %) | AUTO (52 hl., 22,51 %) | VÃZVA (27 hl., 11,69 %) | Nevolte Urza.cz (24 hl., 10,39 %) | Volt (8 hl., 3,46 %) | BPS (6 hl., 2,6 %) | SMSka (4 hl., 1,73 %) | PÅ˜ÃSAHA (4 hl., 1,73 %) | Å vÃ½carskÃ¡ dem. (4 hl., 1,73 %) | JaSaN (2 hl., 0,87 %) | ÄŒR1 (2 hl., 0,87 %) | Generace (2 hl., 0,87 %) | RebelovÃ© (1 hl., 0,43 %)"æ
-ãAUTO (171 hl., 46,22 %) | VÃZVA (55 hl., 14,86 %) | Nevolte Urza.cz (42 hl., 11,35 %) | Koruna ÄŒeskÃ¡ (26 hl., 7,03 %) | SMSka (15 hl., 4,05 %) | Å vÃ½carskÃ¡ dem. (14 hl., 3,78 %) | PÅ˜ÃSAHA (13 hl., 3,51 %) | Volt (13 hl., 3,51 %) | RebelovÃ© (7 hl., 1,89 %) | JaSaN (5 hl., 1,35 %) | BPS (5 hl., 1,35 %) | MZH (3 hl., 0,81 %) | ÄŒSSD (1 hl., 0,27 %)"ç
-äAUTO (161 hl., 32,59 %) | Nevolte Urza.cz (121 hl., 24,49 %) | VÃZVA (61 hl., 12,35 %) | Koruna ÄŒeskÃ¡ (59 hl., 11,94 %) | Volt (26 hl., 5,26 %) | Å vÃ½carskÃ¡ dem. (19 hl., 3,85 %) | SMSka (14 hl., 2,83 %) | PÅ˜ÃSAHA (10 hl., 2,02 %) | RebelovÃ© (9 hl., 1,82 %) | JaSaN (4 hl., 0,81 %) | BPS (4 hl., 0,81 %) | ÄŒSSD (2 hl., 0,4 %) | ÄŒR1 (2 hl., 0,4 %)"é
-æAUTO (119 hl., 31,9 %) | Nevolte Urza.cz (71 hl., 19,03 %) | VÃZVA (59 hl., 15,82 %) | Koruna ÄŒeskÃ¡ (48 hl., 12,87 %) | Å vÃ½carskÃ¡ dem. (24 hl., 6,43 %) | Volt (20 hl., 5,36 %) | PÅ˜ÃSAHA (13 hl., 3,49 %) | SMSka (6 hl., 1,61 %) | BPS (4 hl., 1,07 %) | RebelovÃ© (3 hl., 0,8 %) | JaSaN (3 hl., 0,8 %) | Levice (2 hl., 0,54 %) | Generace (1 hl., 0,27 %)"ê
-çAUTO (144 hl., 30,06 %) | Nevolte Urza.cz (107 hl., 22,34 %) | Koruna ÄŒeskÃ¡ (77 hl., 16,08 %) | VÃZVA (39 hl., 8,14 %) | Volt (32 hl., 6,68 %) | Å vÃ½carskÃ¡ dem. (31 hl., 6,47 %) | SMSka (19 hl., 3,97 %) | PÅ˜ÃSAHA (15 hl., 3,13 %) | JaSaN (6 hl., 1,25 %) | RebelovÃ© (3 hl., 0,63 %) | BPS (2 hl., 0,42 %) | MZH (1 hl., 0,21 %) | Generace (1 hl., 0,21 %)"ë
-èAUTO (214 hl., 42,46 %) | VÃZVA (79 hl., 15,67 %) | Nevolte Urza.cz (57 hl., 11,31 %) | Koruna ÄŒeskÃ¡ (43 hl., 8,53 %) | SMSka (32 hl., 6,35 %) | Å vÃ½carskÃ¡ dem. (21 hl., 4,17 %) | Volt (19 hl., 3,77 %) | JaSaN (17 hl., 3,37 %) | PÅ˜ÃSAHA (11 hl., 2,18 %) | RebelovÃ© (5 hl., 0,99 %) | BPS (3 hl., 0,6 %) | Generace (1 hl., 0,2 %) | PirÃ¡ti (1 hl., 0,2 %)"í
-êAUTO (108 hl., 30,95 %) | Nevolte Urza.cz (71 hl., 20,34 %) | Koruna ÄŒeskÃ¡ (54 hl., 15,47 %) | VÃZVA (47 hl., 13,47 %) | Å vÃ½carskÃ¡ dem. (17 hl., 4,87 %) | Volt (15 hl., 4,3 %) | JaSaN (10 hl., 2,87 %) | SMSka (10 hl., 2,87 %) | PÅ˜ÃSAHA (6 hl., 1,72 %) | RebelovÃ© (4 hl., 1,15 %) | BPS (3 hl., 0,86 %) | Generace (1 hl., 0,29 %) | PirÃ¡ti (1 hl., 0,29 %)"í
-êAUTO (198 hl., 38,75 %) | Nevolte Urza.cz (104 hl., 20,35 %) | VÃZVA (72 hl., 14,09 %) | Koruna ÄŒeskÃ¡ (53 hl., 10,37 %) | Å vÃ½carskÃ¡ dem. (32 hl., 6,26 %) | Volt (13 hl., 2,54 %) | PÅ˜ÃSAHA (11 hl., 2,15 %) | RebelovÃ© (10 hl., 1,96 %) | JaSaN (8 hl., 1,57 %) | SMSka (5 hl., 0,98 %) | BPS (3 hl., 0,59 %) | Generace (1 hl., 0,2 %) | PirÃ¡ti (1 hl., 0,2 %)"ï
-ìAUTO (191 hl., 30,61 %) | Nevolte Urza.cz (143 hl., 22,92 %) | Koruna ÄŒeskÃ¡ (74 hl., 11,86 %) | VÃZVA (66 hl., 10,58 %) | Å vÃ½carskÃ¡ dem. (45 hl., 7,21 %) | PÅ˜ÃSAHA (30 hl., 4,81 %) | Volt (26 hl., 4,17 %) | SMSka (19 hl., 3,04 %) | JaSaN (17 hl., 2,72 %) | RebelovÃ© (9 hl., 1,44 %) | BPS (2 hl., 0,32 %) | Levice (1 hl., 0,16 %) | Generace (1 hl., 0,16 %)"ú
-÷AUTO (84 hl., 45,41 %) | Nevolte Urza.cz (27 hl., 14,59 %) | VÃZVA (23 hl., 12,43 %) | Koruna ÄŒeskÃ¡ (14 hl., 7,57 %) | Å vÃ½carskÃ¡ dem. (7 hl., 3,78 %) | Volt (6 hl., 3,24 %) | SMSka (5 hl., 2,7 %) | PÅ˜ÃSAHA (5 hl., 2,7 %) | JaSaN (4 hl., 2,16 %) | BPS (4 hl., 2,16 %) | RebelovÃ© (3 hl., 1,62 %) | MZH (1 hl., 0,54 %) | ÄŒSSD (1 hl., 0,54 %) | Generace (1 hl., 0,54 %)"ü
-ùAUTO (157 hl., 45,91 %) | Koruna ÄŒeskÃ¡ (45 hl., 13,16 %) | VÃZVA (44 hl., 12,87 %) | Nevolte Urza.cz (38 hl., 11,11 %) | Volt (23 hl., 6,73 %) | PÅ˜ÃSAHA (8 hl., 2,34 %) | Å vÃ½carskÃ¡ dem. (8 hl., 2,34 %) | SMSka (6 hl., 1,75 %) | RebelovÃ© (3 hl., 0,88 %) | MZH (3 hl., 0,88 %) | JaSaN (3 hl., 0,88 %) | BPS (2 hl., 0,58 %) | Levice (1 hl., 0,29 %) | ÄŒR1 (1 hl., 0,29 %)"ü
-ùAUTO (228 hl., 44,53 %) | Nevolte Urza.cz (83 hl., 16,21 %) | VÃZVA (59 hl., 11,52 %) | Koruna ÄŒeskÃ¡ (35 hl., 6,84 %) | Volt (28 hl., 5,47 %) | SMSka (26 hl., 5,08 %) | PÅ˜ÃSAHA (15 hl., 2,93 %) | Å vÃ½carskÃ¡ dem. (13 hl., 2,54 %) | RebelovÃ© (9 hl., 1,76 %) | JaSaN (6 hl., 1,17 %) | BPS (5 hl., 0,98 %) | ÄŒR1 (3 hl., 0,59 %) | MZH (1 hl., 0,2 %) | Levice (1 hl., 0,2 %)"ı
-úAUTO (59 hl., 46,09 %) | VÃZVA (26 hl., 20,31 %) | Nevolte Urza.cz (16 hl., 12,5 %) | Koruna ÄŒeskÃ¡ (11 hl., 8,59 %) | PÅ˜ÃSAHA (7 hl., 5,47 %) | Å vÃ½carskÃ¡ dem. (5 hl., 3,91 %) | BPS (2 hl., 1,56 %) | ÄŒR1 (1 hl., 0,78 %) | Volt (1 hl., 0,78 %)"ı
-úAUTO (66 hl., 36,26 %) | Nevolte Urza.cz (30 hl., 16,48 %) | VÃZVA (24 hl., 13,19 %) | Koruna ÄŒeskÃ¡ (14 hl., 7,69 %) | Å vÃ½carskÃ¡ dem. (11 hl., 6,04 %) | Volt (10 hl., 5,49 %) | SMSka (7 hl., 3,85 %) | PÅ˜ÃSAHA (7 hl., 3,85 %) | RebelovÃ© (4 hl., 2,2 %) | JaSaN (3 hl., 1,65 %) | MZH (2 hl., 1,1 %) | ÄŒR1 (2 hl., 1,1 %) | Levice (1 hl., 0,55 %) | Generace (1 hl., 0,55 %)"ş
-ûAUTO (213 hl., 45,61 %) | Nevolte Urza.cz (72 hl., 15,42 %) | VÃZVA (63 hl., 13,49 %) | Koruna ÄŒeskÃ¡ (36 hl., 7,71 %) | Å vÃ½carskÃ¡ dem. (21 hl., 4,5 %) | SMSka (12 hl., 2,57 %) | PÅ˜ÃSAHA (11 hl., 2,36 %) | Volt (10 hl., 2,14 %) | JaSaN (9 hl., 1,93 %) | BPS (6 hl., 1,28 %) | RebelovÃ© (4 hl., 0,86 %) | Levice (4 hl., 0,86 %) | MZH (3 hl., 0,64 %) | ÄŒSSD (3 hl., 0,64 %)"ÿ
-üAUTO (139 hl., 31,59 %) | Nevolte Urza.cz (80 hl., 18,18 %) | VÃZVA (76 hl., 17,27 %) | Koruna ÄŒeskÃ¡ (53 hl., 12,05 %) | PÅ˜ÃSAHA (26 hl., 5,91 %) | Volt (22 hl., 5,0 %) | Å vÃ½carskÃ¡ dem. (20 hl., 4,55 %) | RebelovÃ© (8 hl., 1,82 %) | JaSaN (4 hl., 0,91 %) | SMSka (4 hl., 0,91 %) | MZH (2 hl., 0,45 %) | PirÃ¡ti (2 hl., 0,45 %) | BPS (2 hl., 0,45 %) | ÄŒSSD (1 hl., 0,23 %)"ÿ
-üAUTO (146 hl., 35,35 %) | Nevolte Urza.cz (82 hl., 19,85 %) | Koruna ÄŒeskÃ¡ (56 hl., 13,56 %) | VÃZVA (48 hl., 11,62 %) | Å vÃ½carskÃ¡ dem. (29 hl., 7,02 %) | Volt (11 hl., 2,66 %) | SMSka (10 hl., 2,42 %) | JaSaN (8 hl., 1,94 %) | RebelovÃ© (6 hl., 1,45 %) | PÅ˜ÃSAHA (6 hl., 1,45 %) | BPS (4 hl., 0,97 %) | Levice (3 hl., 0,73 %) | MZH (2 hl., 0,48 %) | ÄŒSSD (2 hl., 0,48 %)"ÿ
-üAUTO (152 hl., 32,48 %) | Nevolte Urza.cz (102 hl., 21,79 %) | Koruna ÄŒeskÃ¡ (65 hl., 13,89 %) | VÃZVA (45 hl., 9,62 %) | Å vÃ½carskÃ¡ dem. (29 hl., 6,2 %) | PÅ˜ÃSAHA (20 hl., 4,27 %) | Volt (17 hl., 3,63 %) | SMSka (13 hl., 2,78 %) | RebelovÃ© (9 hl., 1,92 %) | JaSaN (7 hl., 1,5 %) | BPS (5 hl., 1,07 %) | ÄŒSSD (2 hl., 0,43 %) | Levice (1 hl., 0,21 %) | ÄŒR1 (1 hl., 0,21 %)"€
-ıAUTO (224 hl., 39,23 %) | VÃZVA (96 hl., 16,81 %) | Nevolte Urza.cz (89 hl., 15,59 %) | Koruna ÄŒeskÃ¡ (46 hl., 8,06 %) | Å vÃ½carskÃ¡ dem. (31 hl., 5,43 %) | PÅ˜ÃSAHA (25 hl., 4,38 %) | Volt (21 hl., 3,68 %) | SMSka (13 hl., 2,28 %) | JaSaN (9 hl., 1,58 %) | RebelovÃ© (8 hl., 1,4 %) | BPS (4 hl., 0,7 %) | MZH (3 hl., 0,53 %) | Levice (1 hl., 0,18 %) | Generace (1 hl., 0,18 %)"
-şAUTO (141 hl., 43,93 %) | VÃZVA (50 hl., 15,58 %) | Nevolte Urza.cz (42 hl., 13,08 %) | Koruna ÄŒeskÃ¡ (24 hl., 7,48 %) | Volt (19 hl., 5,92 %) | Å vÃ½carskÃ¡ dem. (13 hl., 4,05 %) | JaSaN (7 hl., 2,18 %) | SMSka (7 hl., 2,18 %) | PÅ˜ÃSAHA (6 hl., 1,87 %) | RebelovÃ© (5 hl., 1,56 %) | Levice (2 hl., 0,62 %) | ÄŒR1 (2 hl., 0,62 %) | Generace (2 hl., 0,62 %) | BPS (1 hl., 0,31 %)"
-şAUTO (184 hl., 34,98 %) | Nevolte Urza.cz (108 hl., 20,53 %) | Koruna ÄŒeskÃ¡ (84 hl., 15,97 %) | VÃZVA (45 hl., 8,56 %) | Å vÃ½carskÃ¡ dem. (28 hl., 5,32 %) | Volt (18 hl., 3,42 %) | PÅ˜ÃSAHA (15 hl., 2,85 %) | SMSka (14 hl., 2,66 %) | JaSaN (10 hl., 1,9 %) | RebelovÃ© (8 hl., 1,52 %) | BPS (7 hl., 1,33 %) | ÄŒSSD (3 hl., 0,57 %) | MZH (1 hl., 0,19 %) | PirÃ¡ti (1 hl., 0,19 %)"‚
-ÿAUTO (223 hl., 41,07 %) | VÃZVA (103 hl., 18,97 %) | Nevolte Urza.cz (63 hl., 11,6 %) | Koruna ÄŒeskÃ¡ (42 hl., 7,73 %) | Å vÃ½carskÃ¡ dem. (29 hl., 5,34 %) | Volt (28 hl., 5,16 %) | SMSka (22 hl., 4,05 %) | JaSaN (11 hl., 2,03 %) | RebelovÃ© (9 hl., 1,66 %) | PÅ˜ÃSAHA (6 hl., 1,1 %) | PirÃ¡ti (2 hl., 0,37 %) | MZH (1 hl., 0,18 %) | Generace (1 hl., 0,18 %) | BPS (1 hl., 0,18 %)"‚
-ÿAUTO (233 hl., 39,16 %) | Nevolte Urza.cz (93 hl., 15,63 %) | Koruna ÄŒeskÃ¡ (76 hl., 12,77 %) | VÃZVA (69 hl., 11,6 %) | Å vÃ½carskÃ¡ dem. (31 hl., 5,21 %) | PÅ˜ÃSAHA (28 hl., 4,71 %) | Volt (25 hl., 4,2 %) | SMSka (19 hl., 3,19 %) | BPS (7 hl., 1,18 %) | JaSaN (6 hl., 1,01 %) | RebelovÃ© (4 hl., 0,67 %) | ÄŒSSD (2 hl., 0,34 %) | Levice (1 hl., 0,17 %) | PirÃ¡ti (1 hl., 0,17 %)"  &B"  .B"  6B"  ^B"  vB"  ‰B"  B"  ‘B"  ™B"	33333Q@"	333333C@"	333333J@"	333333K@"	333333P@"	33333sO@"	33333³F@"	33333³J@"	33333³L@"	33333óE@"	33333óL@"	33333óN@"	33333óP@"	33333óQ@"	fffff&@@"	fffff&E@"	fffff&F@"	fffff&L@"	fffff&N@"	fffff&Q@"	fffffFP@"	ffffffH@"	ffffffO@"	fffff¦N@"	fffff¦R@"	fffffÆQ@"	fffffæD@"	fffffæH@"	fffffæM@"	fffffæP@"	š™™™™B@"	š™™™™Q@"	š™™™™YC@"	š™™™™YE@"	š™™™™YF@"	š™™™™YN@"	š™™™™™I@"	š™™™™™M@"	š™™™™™R@"	š™™™™¹R@"	š™™™™ÙP@"	š™™™™ÙQ@"	ÍÌÌÌÌE@"	ÍÌÌÌÌP@"	ÍÌÌÌÌLL@"	ÍÌÌÌÌŒG@"	ÍÌÌÌÌŒJ@"	ÍÌÌÌÌŒO@"	ÍÌÌÌÌ¬Q@"	ÍÌÌÌÌÌ7@"	ÍÌÌÌÌÌC@"	ÍÌÌÌÌÌQ@" " " " " " " " " 	" 
-" " " " " " " " " " " " " " " " " " " " " "  " !" "" #" $" %" &" '" (" /" 4" 5" 7" BÄ í¸{ "­	ŒŸ‚	
+VelemyÅ¡leves - okrsek Ä. 1"„
+ANO (182 hl., 34,47 %) | SPOLU (101 hl., 19,13 %) | STAN (83 hl., 15,72 %) | SPD (50 hl., 9,47 %) | StaÄilo! (30 hl., 5,68 %) | MotoristÃ© (24 hl., 4,55 %) | PÅ˜ÃSAHA (22 hl., 4,17 %) | nan (13 hl., 2,46 %) | PirÃ¡ti (10 hl., 1,89 %) | nan (4 hl., 0,76 %)"„
+ANO (183 hl., 36,24 %) | SPOLU (112 hl., 22,18 %) | STAN (77 hl., 15,25 %) | SPD (43 hl., 8,51 %) | StaÄilo! (20 hl., 3,96 %) | nan (18 hl., 3,56 %) | PÅ˜ÃSAHA (18 hl., 3,56 %) | MotoristÃ© (13 hl., 2,57 %) | PirÃ¡ti (10 hl., 1,98 %) | nan (9 hl., 1,78 %)"„
+ANO (248 hl., 38,63 %) | SPOLU (107 hl., 16,67 %) | STAN (74 hl., 11,53 %) | SPD (72 hl., 11,21 %) | PÅ˜ÃSAHA (31 hl., 4,83 %) | StaÄilo! (28 hl., 4,36 %) | MotoristÃ© (27 hl., 4,21 %) | nan (26 hl., 4,05 %) | PirÃ¡ti (10 hl., 1,56 %) | nan (9 hl., 1,4 %)"…
+‚ANO (248 hl., 38,81 %) | SPD (102 hl., 15,96 %) | SPOLU (89 hl., 13,93 %) | STAN (73 hl., 11,42 %) | MotoristÃ© (35 hl., 5,48 %) | PÅ˜ÃSAHA (22 hl., 3,44 %) | nan (21 hl., 3,29 %) | StaÄilo! (19 hl., 2,97 %) | PirÃ¡ti (11 hl., 1,72 %) | nan (8 hl., 1,25 %)"‘
+ANO (171 hl., 51,66 %) | SPD (49 hl., 14,8 %) | SPOLU (48 hl., 14,5 %) | STAN (21 hl., 6,34 %) | StaÄilo! (14 hl., 4,23 %) | PÅ˜ÃSAHA (9 hl., 2,72 %) | nan (7 hl., 2,11 %) | MotoristÃ© (5 hl., 1,51 %) | nan (3 hl., 0,91 %) | PirÃ¡ti (1 hl., 0,3 %) | nan (1 hl., 0,3 %)"‘
+SPOLU (118 hl., 36,53 %) | ANO (73 hl., 22,6 %) | STAN (52 hl., 16,1 %) | SPD (25 hl., 7,74 %) | nan (16 hl., 4,95 %) | PÅ˜ÃSAHA (12 hl., 3,72 %) | StaÄilo! (12 hl., 3,72 %) | MotoristÃ© (8 hl., 2,48 %) | nan (4 hl., 1,24 %) | nan (2 hl., 0,62 %) | nan (1 hl., 0,31 %)"“
+ANO (210 hl., 41,5 %) | SPD (85 hl., 16,8 %) | SPOLU (71 hl., 14,03 %) | STAN (43 hl., 8,5 %) | PÅ˜ÃSAHA (31 hl., 6,13 %) | StaÄilo! (28 hl., 5,53 %) | MotoristÃ© (12 hl., 2,37 %) | nan (8 hl., 1,58 %) | nan (7 hl., 1,38 %) | PirÃ¡ti (3 hl., 0,59 %) | nan (1 hl., 0,2 %)"”
+‘ANO (178 hl., 50,42 %) | SPD (52 hl., 14,73 %) | SPOLU (43 hl., 12,18 %) | STAN (23 hl., 6,52 %) | PirÃ¡ti (14 hl., 3,97 %) | StaÄilo! (12 hl., 3,4 %) | MotoristÃ© (7 hl., 1,98 %) | nan (7 hl., 1,98 %) | PÅ˜ÃSAHA (7 hl., 1,98 %) | nan (6 hl., 1,7 %) | nan (2 hl., 0,57 %)"•
+’ANO (182 hl., 45,39 %) | SPOLU (55 hl., 13,72 %) | STAN (46 hl., 11,47 %) | SPD (39 hl., 9,73 %) | PÅ˜ÃSAHA (23 hl., 5,74 %) | StaÄilo! (17 hl., 4,24 %) | nan (14 hl., 3,49 %) | MotoristÃ© (13 hl., 3,24 %) | PirÃ¡ti (4 hl., 1,0 %) | nan (4 hl., 1,0 %) | nan (2 hl., 0,5 %)"–
+“ANO (129 hl., 33,68 %) | SPOLU (77 hl., 20,1 %) | SPD (54 hl., 14,1 %) | STAN (51 hl., 13,32 %) | PÅ˜ÃSAHA (19 hl., 4,96 %) | StaÄilo! (17 hl., 4,44 %) | MotoristÃ© (15 hl., 3,92 %) | PirÃ¡ti (7 hl., 1,83 %) | nan (6 hl., 1,57 %) | nan (4 hl., 1,04 %) | nan (2 hl., 0,52 %)"—
+”ANO (139 hl., 31,59 %) | SPOLU (80 hl., 18,18 %) | SPD (76 hl., 17,27 %) | STAN (53 hl., 12,05 %) | nan (26 hl., 5,91 %) | StaÄilo! (22 hl., 5,0 %) | PÅ˜ÃSAHA (20 hl., 4,55 %) | nan (8 hl., 1,82 %) | PirÃ¡ti (4 hl., 0,91 %) | MotoristÃ© (4 hl., 0,91 %) | nan (2 hl., 0,45 %)"—
+”ANO (223 hl., 41,07 %) | SPD (103 hl., 18,97 %) | SPOLU (63 hl., 11,6 %) | STAN (42 hl., 7,73 %) | PÅ˜ÃSAHA (29 hl., 5,34 %) | StaÄilo! (28 hl., 5,16 %) | MotoristÃ© (22 hl., 4,05 %) | PirÃ¡ti (11 hl., 2,03 %) | nan (9 hl., 1,66 %) | nan (6 hl., 1,1 %) | nan (1 hl., 0,18 %)"—
+”ANO (93 hl., 28,7 %) | SPOLU (72 hl., 22,22 %) | SPD (43 hl., 13,27 %) | STAN (33 hl., 10,19 %) | nan (24 hl., 7,41 %) | MotoristÃ© (19 hl., 5,86 %) | StaÄilo! (16 hl., 4,94 %) | PÅ˜ÃSAHA (15 hl., 4,63 %) | PirÃ¡ti (4 hl., 1,23 %) | nan (2 hl., 0,62 %) | nan (1 hl., 0,31 %)"˜
+•ANO (108 hl., 30,95 %) | SPOLU (71 hl., 20,34 %) | STAN (54 hl., 15,47 %) | SPD (47 hl., 13,47 %) | PÅ˜ÃSAHA (17 hl., 4,87 %) | StaÄilo! (15 hl., 4,3 %) | PirÃ¡ti (10 hl., 2,87 %) | MotoristÃ© (10 hl., 2,87 %) | nan (6 hl., 1,72 %) | nan (4 hl., 1,15 %) | nan (3 hl., 0,86 %)"˜
+•ANO (152 hl., 38,97 %) | SPD (57 hl., 14,62 %) | SPOLU (57 hl., 14,62 %) | STAN (34 hl., 8,72 %) | StaÄilo! (22 hl., 5,64 %) | MotoristÃ© (20 hl., 5,13 %) | PÅ˜ÃSAHA (19 hl., 4,87 %) | PirÃ¡ti (11 hl., 2,82 %) | nan (6 hl., 1,54 %) | nan (4 hl., 1,03 %) | nan (3 hl., 0,77 %)"˜
+•ANO (171 hl., 33,33 %) | SPOLU (109 hl., 21,25 %) | STAN (97 hl., 18,91 %) | SPD (39 hl., 7,6 %) | PÅ˜ÃSAHA (24 hl., 4,68 %) | nan (20 hl., 3,9 %) | MotoristÃ© (14 hl., 2,73 %) | StaÄilo! (14 hl., 2,73 %) | nan (11 hl., 2,14 %) | nan (4 hl., 0,78 %) | PirÃ¡ti (3 hl., 0,58 %)"˜
+•ANO (214 hl., 42,46 %) | SPD (79 hl., 15,67 %) | SPOLU (57 hl., 11,31 %) | STAN (43 hl., 8,53 %) | MotoristÃ© (32 hl., 6,35 %) | PÅ˜ÃSAHA (21 hl., 4,17 %) | StaÄilo! (19 hl., 3,77 %) | PirÃ¡ti (17 hl., 3,37 %) | nan (11 hl., 2,18 %) | nan (5 hl., 0,99 %) | nan (3 hl., 0,6 %)"™
+–ANO (144 hl., 30,06 %) | SPOLU (107 hl., 22,34 %) | STAN (77 hl., 16,08 %) | SPD (39 hl., 8,14 %) | StaÄilo! (32 hl., 6,68 %) | PÅ˜ÃSAHA (31 hl., 6,47 %) | MotoristÃ© (19 hl., 3,97 %) | nan (15 hl., 3,13 %) | PirÃ¡ti (6 hl., 1,25 %) | nan (3 hl., 0,63 %) | nan (2 hl., 0,42 %)"™
+–ANO (161 hl., 35,54 %) | SPOLU (101 hl., 22,3 %) | STAN (67 hl., 14,79 %) | SPD (52 hl., 11,48 %) | PÅ˜ÃSAHA (17 hl., 3,75 %) | StaÄilo! (17 hl., 3,75 %) | nan (11 hl., 2,43 %) | MotoristÃ© (10 hl., 2,21 %) | nan (7 hl., 1,55 %) | PirÃ¡ti (6 hl., 1,32 %) | nan (3 hl., 0,66 %)"™
+–ANO (225 hl., 40,54 %) | SPOLU (100 hl., 18,02 %) | SPD (61 hl., 10,99 %) | STAN (61 hl., 10,99 %) | PÅ˜ÃSAHA (28 hl., 5,05 %) | StaÄilo! (25 hl., 4,5 %) | MotoristÃ© (17 hl., 3,06 %) | nan (16 hl., 2,88 %) | nan (9 hl., 1,62 %) | nan (6 hl., 1,08 %) | PirÃ¡ti (2 hl., 0,36 %)"š
+—ANO (257 hl., 41,65 %) | SPOLU (112 hl., 18,15 %) | SPD (77 hl., 12,48 %) | STAN (63 hl., 10,21 %) | PÅ˜ÃSAHA (34 hl., 5,51 %) | nan (19 hl., 3,08 %) | StaÄilo! (18 hl., 2,92 %) | MotoristÃ© (15 hl., 2,43 %) | PirÃ¡ti (7 hl., 1,13 %) | nan (4 hl., 0,65 %) | nan (3 hl., 0,49 %)"§
+¤ANO (84 hl., 45,41 %) | SPOLU (27 hl., 14,59 %) | SPD (23 hl., 12,43 %) | STAN (14 hl., 7,57 %) | PÅ˜ÃSAHA (7 hl., 3,78 %) | StaÄilo! (6 hl., 3,24 %) | MotoristÃ© (5 hl., 2,7 %) | nan (5 hl., 2,7 %) | PirÃ¡ti (4 hl., 2,16 %) | nan (4 hl., 2,16 %) | nan (3 hl., 1,62 %) | nan (1 hl., 0,54 %)"©
+¦ANO (53 hl., 49,07 %) | SPD (25 hl., 23,15 %) | SPOLU (15 hl., 13,89 %) | STAN (5 hl., 4,63 %) | nan (2 hl., 1,85 %) | StaÄilo! (2 hl., 1,85 %) | nan (1 hl., 0,93 %)"©
+¦ANO (146 hl., 46,5 %) | SPD (57 hl., 18,15 %) | SPOLU (30 hl., 9,55 %) | STAN (22 hl., 7,01 %) | StaÄilo! (16 hl., 5,1 %) | PÅ˜ÃSAHA (14 hl., 4,46 %) | MotoristÃ© (11 hl., 3,5 %) | nan (6 hl., 1,91 %) | nan (5 hl., 1,59 %) | PirÃ¡ti (3 hl., 0,96 %) | nan (3 hl., 0,96 %) | nan (1 hl., 0,32 %)"©
+¦ANO (66 hl., 36,26 %) | SPOLU (30 hl., 16,48 %) | SPD (24 hl., 13,19 %) | STAN (14 hl., 7,69 %) | PÅ˜ÃSAHA (11 hl., 6,04 %) | StaÄilo! (10 hl., 5,49 %) | MotoristÃ© (7 hl., 3,85 %) | nan (7 hl., 3,85 %) | nan (4 hl., 2,2 %) | PirÃ¡ti (3 hl., 1,65 %) | nan (2 hl., 1,1 %) | nan (1 hl., 0,55 %)"©
+¦STAN (95 hl., 41,13 %) | ANO (52 hl., 22,51 %) | SPD (27 hl., 11,69 %) | SPOLU (24 hl., 10,39 %) | StaÄilo! (8 hl., 3,46 %) | nan (6 hl., 2,6 %) | MotoristÃ© (4 hl., 1,73 %) | nan (4 hl., 1,73 %) | PÅ˜ÃSAHA (4 hl., 1,73 %) | PirÃ¡ti (2 hl., 0,87 %) | nan (2 hl., 0,87 %) | nan (1 hl., 0,43 %)"ª
+§ANO (85 hl., 38,12 %) | SPD (42 hl., 18,83 %) | SPOLU (21 hl., 9,42 %) | StaÄilo! (19 hl., 8,52 %) | STAN (17 hl., 7,62 %) | PÅ˜ÃSAHA (16 hl., 7,17 %) | MotoristÃ© (6 hl., 2,69 %) | nan (5 hl., 2,24 %) | PirÃ¡ti (4 hl., 1,79 %) | nan (4 hl., 1,79 %) | nan (3 hl., 1,35 %) | nan (1 hl., 0,45 %)"¬
+©ANO (141 hl., 43,93 %) | SPD (50 hl., 15,58 %) | SPOLU (42 hl., 13,08 %) | STAN (24 hl., 7,48 %) | StaÄilo! (19 hl., 5,92 %) | PÅ˜ÃSAHA (13 hl., 4,05 %) | PirÃ¡ti (7 hl., 2,18 %) | MotoristÃ© (7 hl., 2,18 %) | nan (6 hl., 1,87 %) | nan (5 hl., 1,56 %) | nan (2 hl., 0,62 %) | nan (1 hl., 0,31 %)"¬
+©ANO (152 hl., 35,43 %) | SPOLU (117 hl., 27,27 %) | STAN (45 hl., 10,49 %) | SPD (34 hl., 7,93 %) | PÅ˜ÃSAHA (23 hl., 5,36 %) | StaÄilo! (16 hl., 3,73 %) | MotoristÃ© (14 hl., 3,26 %) | nan (9 hl., 2,1 %) | nan (5 hl., 1,17 %) | nan (3 hl., 0,7 %) | PirÃ¡ti (1 hl., 0,23 %) | nan (1 hl., 0,23 %)"¬
+©ANO (157 hl., 45,91 %) | STAN (45 hl., 13,16 %) | SPD (44 hl., 12,87 %) | SPOLU (38 hl., 11,11 %) | StaÄilo! (23 hl., 6,73 %) | nan (8 hl., 2,34 %) | PÅ˜ÃSAHA (8 hl., 2,34 %) | MotoristÃ© (6 hl., 1,75 %) | nan (3 hl., 0,88 %) | PirÃ¡ti (3 hl., 0,88 %) | nan (2 hl., 0,58 %) | nan (1 hl., 0,29 %)"¬
+©ANO (183 hl., 46,8 %) | SPD (48 hl., 12,28 %) | SPOLU (42 hl., 10,74 %) | STAN (40 hl., 10,23 %) | StaÄilo! (22 hl., 5,63 %) | PÅ˜ÃSAHA (16 hl., 4,09 %) | MotoristÃ© (13 hl., 3,32 %) | nan (9 hl., 2,3 %) | PirÃ¡ti (7 hl., 1,79 %) | nan (6 hl., 1,53 %) | nan (4 hl., 1,02 %) | nan (1 hl., 0,26 %)"¬
+©ANO (205 hl., 39,27 %) | SPOLU (91 hl., 17,43 %) | SPD (80 hl., 15,33 %) | STAN (52 hl., 9,96 %) | StaÄilo! (32 hl., 6,13 %) | PÅ˜ÃSAHA (22 hl., 4,21 %) | MotoristÃ© (12 hl., 2,3 %) | nan (8 hl., 1,53 %) | PirÃ¡ti (6 hl., 1,15 %) | nan (5 hl., 0,96 %) | nan (3 hl., 0,57 %) | nan (2 hl., 0,38 %)"­
+ªANO (126 hl., 36,21 %) | SPOLU (67 hl., 19,25 %) | SPD (40 hl., 11,49 %) | STAN (34 hl., 9,77 %) | MotoristÃ© (17 hl., 4,89 %) | PÅ˜ÃSAHA (17 hl., 4,89 %) | StaÄilo! (16 hl., 4,6 %) | nan (15 hl., 4,31 %) | nan (7 hl., 2,01 %) | nan (6 hl., 1,72 %) | PirÃ¡ti (2 hl., 0,57 %) | nan (1 hl., 0,29 %)"­
+ªANO (213 hl., 45,61 %) | SPOLU (72 hl., 15,42 %) | SPD (63 hl., 13,49 %) | STAN (36 hl., 7,71 %) | PÅ˜ÃSAHA (21 hl., 4,5 %) | MotoristÃ© (12 hl., 2,57 %) | nan (11 hl., 2,36 %) | StaÄilo! (10 hl., 2,14 %) | PirÃ¡ti (9 hl., 1,93 %) | nan (6 hl., 1,28 %) | nan (4 hl., 0,86 %) | nan (3 hl., 0,64 %)"­
+ªANO (98 hl., 27,68 %) | SPOLU (79 hl., 22,32 %) | SPD (61 hl., 17,23 %) | STAN (47 hl., 13,28 %) | MotoristÃ© (18 hl., 5,08 %) | PÅ˜ÃSAHA (14 hl., 3,95 %) | StaÄilo! (13 hl., 3,67 %) | PirÃ¡ti (6 hl., 1,69 %) | nan (4 hl., 1,13 %) | nan (3 hl., 0,85 %) | nan (2 hl., 0,56 %) | nan (1 hl., 0,28 %)"®
+«ANO (146 hl., 35,35 %) | SPOLU (82 hl., 19,85 %) | STAN (56 hl., 13,56 %) | SPD (48 hl., 11,62 %) | PÅ˜ÃSAHA (29 hl., 7,02 %) | StaÄilo! (11 hl., 2,66 %) | MotoristÃ© (10 hl., 2,42 %) | PirÃ¡ti (8 hl., 1,94 %) | nan (6 hl., 1,45 %) | nan (4 hl., 0,97 %) | nan (3 hl., 0,73 %) | nan (2 hl., 0,48 %)"®
+«ANO (231 hl., 34,74 %) | SPOLU (168 hl., 25,26 %) | STAN (81 hl., 12,18 %) | SPD (71 hl., 10,68 %) | StaÄilo! (39 hl., 5,86 %) | PÅ˜ÃSAHA (25 hl., 3,76 %) | MotoristÃ© (13 hl., 1,95 %) | nan (11 hl., 1,65 %) | nan (9 hl., 1,35 %) | PirÃ¡ti (6 hl., 0,9 %) | nan (3 hl., 0,45 %) | nan (2 hl., 0,3 %)"¯
+¬ANO (161 hl., 32,59 %) | SPOLU (121 hl., 24,49 %) | SPD (61 hl., 12,35 %) | STAN (59 hl., 11,94 %) | StaÄilo! (26 hl., 5,26 %) | PÅ˜ÃSAHA (19 hl., 3,85 %) | MotoristÃ© (14 hl., 2,83 %) | nan (10 hl., 2,02 %) | nan (9 hl., 1,82 %) | PirÃ¡ti (4 hl., 0,81 %) | nan (4 hl., 0,81 %) | nan (2 hl., 0,4 %)"¯
+¬ANO (179 hl., 34,36 %) | SPOLU (123 hl., 23,61 %) | STAN (58 hl., 11,13 %) | SPD (46 hl., 8,83 %) | PÅ˜ÃSAHA (27 hl., 5,18 %) | StaÄilo! (24 hl., 4,61 %) | MotoristÃ© (21 hl., 4,03 %) | nan (16 hl., 3,07 %) | nan (7 hl., 1,34 %) | PirÃ¡ti (7 hl., 1,34 %) | nan (5 hl., 0,96 %) | nan (3 hl., 0,58 %)"¯
+¬ANO (184 hl., 34,98 %) | SPOLU (108 hl., 20,53 %) | STAN (84 hl., 15,97 %) | SPD (45 hl., 8,56 %) | PÅ˜ÃSAHA (28 hl., 5,32 %) | StaÄilo! (18 hl., 3,42 %) | nan (15 hl., 2,85 %) | MotoristÃ© (14 hl., 2,66 %) | PirÃ¡ti (10 hl., 1,9 %) | nan (8 hl., 1,52 %) | nan (7 hl., 1,33 %) | nan (3 hl., 0,57 %)"¯
+¬ANO (198 hl., 38,75 %) | SPOLU (104 hl., 20,35 %) | SPD (72 hl., 14,09 %) | STAN (53 hl., 10,37 %) | PÅ˜ÃSAHA (32 hl., 6,26 %) | StaÄilo! (13 hl., 2,54 %) | nan (11 hl., 2,15 %) | nan (10 hl., 1,96 %) | PirÃ¡ti (8 hl., 1,57 %) | MotoristÃ© (5 hl., 0,98 %) | nan (3 hl., 0,59 %) | nan (1 hl., 0,2 %)"°
+­ANO (202 hl., 34,59 %) | SPOLU (109 hl., 18,66 %) | SPD (73 hl., 12,5 %) | STAN (67 hl., 11,47 %) | PÅ˜ÃSAHA (39 hl., 6,68 %) | StaÄilo! (31 hl., 5,31 %) | nan (19 hl., 3,25 %) | MotoristÃ© (18 hl., 3,08 %) | PirÃ¡ti (12 hl., 2,05 %) | nan (6 hl., 1,03 %) | nan (4 hl., 0,68 %) | nan (3 hl., 0,51 %)"±
+®ANO (191 hl., 30,61 %) | SPOLU (143 hl., 22,92 %) | STAN (74 hl., 11,86 %) | SPD (66 hl., 10,58 %) | PÅ˜ÃSAHA (45 hl., 7,21 %) | nan (30 hl., 4,81 %) | StaÄilo! (26 hl., 4,17 %) | MotoristÃ© (19 hl., 3,04 %) | PirÃ¡ti (17 hl., 2,72 %) | nan (9 hl., 1,44 %) | nan (2 hl., 0,32 %) | nan (1 hl., 0,16 %)"±
+®ANO (191 hl., 34,23 %) | SPOLU (119 hl., 21,33 %) | STAN (80 hl., 14,34 %) | SPD (66 hl., 11,83 %) | PÅ˜ÃSAHA (25 hl., 4,48 %) | StaÄilo! (18 hl., 3,23 %) | MotoristÃ© (16 hl., 2,87 %) | nan (13 hl., 2,33 %) | PirÃ¡ti (10 hl., 1,79 %) | nan (8 hl., 1,43 %) | nan (2 hl., 0,36 %) | nan (1 hl., 0,18 %)"Á
+¾ANO (119 hl., 31,9 %) | SPOLU (71 hl., 19,03 %) | SPD (59 hl., 15,82 %) | STAN (48 hl., 12,87 %) | PÅ˜ÃSAHA (24 hl., 6,43 %) | StaÄilo! (20 hl., 5,36 %) | nan (13 hl., 3,49 %) | MotoristÃ© (6 hl., 1,61 %) | nan (4 hl., 1,07 %) | nan (3 hl., 0,8 %) | PirÃ¡ti (3 hl., 0,8 %) | nan (2 hl., 0,54 %) | nan (1 hl., 0,27 %)"Á
+¾ANO (170 hl., 38,29 %) | SPD (89 hl., 20,05 %) | SPOLU (62 hl., 13,96 %) | STAN (47 hl., 10,59 %) | StaÄilo! (19 hl., 4,28 %) | MotoristÃ© (13 hl., 2,93 %) | nan (12 hl., 2,7 %) | nan (9 hl., 2,03 %) | PÅ˜ÃSAHA (9 hl., 2,03 %) | PirÃ¡ti (4 hl., 0,9 %) | nan (4 hl., 0,9 %) | nan (3 hl., 0,68 %) | nan (1 hl., 0,23 %)"Â
+¿ANO (224 hl., 39,23 %) | SPD (96 hl., 16,81 %) | SPOLU (89 hl., 15,59 %) | STAN (46 hl., 8,06 %) | PÅ˜ÃSAHA (31 hl., 5,43 %) | nan (25 hl., 4,38 %) | StaÄilo! (21 hl., 3,68 %) | MotoristÃ© (13 hl., 2,28 %) | PirÃ¡ti (9 hl., 1,58 %) | nan (8 hl., 1,4 %) | nan (4 hl., 0,7 %) | nan (3 hl., 0,53 %) | nan (1 hl., 0,18 %)"Ã
+ÀANO (152 hl., 32,48 %) | SPOLU (102 hl., 21,79 %) | STAN (65 hl., 13,89 %) | SPD (45 hl., 9,62 %) | PÅ˜ÃSAHA (29 hl., 6,2 %) | nan (20 hl., 4,27 %) | StaÄilo! (17 hl., 3,63 %) | MotoristÃ© (13 hl., 2,78 %) | nan (9 hl., 1,92 %) | PirÃ¡ti (7 hl., 1,5 %) | nan (5 hl., 1,07 %) | nan (2 hl., 0,43 %) | nan (1 hl., 0,21 %)"Ã
+ÀANO (228 hl., 44,53 %) | SPOLU (83 hl., 16,21 %) | SPD (59 hl., 11,52 %) | STAN (35 hl., 6,84 %) | StaÄilo! (28 hl., 5,47 %) | MotoristÃ© (26 hl., 5,08 %) | nan (15 hl., 2,93 %) | PÅ˜ÃSAHA (13 hl., 2,54 %) | nan (9 hl., 1,76 %) | PirÃ¡ti (6 hl., 1,17 %) | nan (5 hl., 0,98 %) | nan (3 hl., 0,59 %) | nan (1 hl., 0,2 %)"Ã
+ÀANO (231 hl., 34,79 %) | SPOLU (140 hl., 21,08 %) | STAN (91 hl., 13,7 %) | SPD (66 hl., 9,94 %) | PÅ˜ÃSAHA (37 hl., 5,57 %) | MotoristÃ© (29 hl., 4,37 %) | StaÄilo! (24 hl., 3,61 %) | nan (22 hl., 3,31 %) | nan (5 hl., 0,75 %) | PirÃ¡ti (5 hl., 0,75 %) | nan (3 hl., 0,45 %) | nan (2 hl., 0,3 %) | nan (1 hl., 0,15 %)"Ã
+ÀANO (233 hl., 39,16 %) | SPOLU (93 hl., 15,63 %) | STAN (76 hl., 12,77 %) | SPD (69 hl., 11,6 %) | PÅ˜ÃSAHA (31 hl., 5,21 %) | nan (28 hl., 4,71 %) | StaÄilo! (25 hl., 4,2 %) | MotoristÃ© (19 hl., 3,19 %) | nan (7 hl., 1,18 %) | PirÃ¡ti (6 hl., 1,01 %) | nan (4 hl., 0,67 %) | nan (2 hl., 0,34 %) | nan (1 hl., 0,17 %)"Ã
+ÀANO (236 hl., 34,6 %) | SPOLU (173 hl., 25,37 %) | STAN (86 hl., 12,61 %) | SPD (61 hl., 8,94 %) | StaÄilo! (36 hl., 5,28 %) | PÅ˜ÃSAHA (31 hl., 4,55 %) | MotoristÃ© (30 hl., 4,4 %) | nan (13 hl., 1,91 %) | nan (5 hl., 0,73 %) | nan (3 hl., 0,44 %) | PirÃ¡ti (2 hl., 0,29 %) | nan (2 hl., 0,29 %) | nan (1 hl., 0,15 %)"Ä
+ÁANO (171 hl., 46,22 %) | SPD (55 hl., 14,86 %) | SPOLU (42 hl., 11,35 %) | STAN (26 hl., 7,03 %) | MotoristÃ© (15 hl., 4,05 %) | PÅ˜ÃSAHA (14 hl., 3,78 %) | nan (13 hl., 3,51 %) | StaÄilo! (13 hl., 3,51 %) | nan (7 hl., 1,89 %) | PirÃ¡ti (5 hl., 1,35 %) | nan (5 hl., 1,35 %) | nan (3 hl., 0,81 %) | nan (1 hl., 0,27 %)"Å
+ÂANO (195 hl., 43,72 %) | SPD (65 hl., 14,57 %) | SPOLU (46 hl., 10,31 %) | STAN (32 hl., 7,17 %) | StaÄilo! (26 hl., 5,83 %) | PirÃ¡ti (18 hl., 4,04 %) | nan (18 hl., 4,04 %) | PÅ˜ÃSAHA (18 hl., 4,04 %) | MotoristÃ© (12 hl., 2,69 %) | nan (7 hl., 1,57 %) | nan (3 hl., 0,67 %) | nan (2 hl., 0,45 %) | nan (1 hl., 0,22 %)"Å
+ÂANO (223 hl., 33,18 %) | SPOLU (157 hl., 23,36 %) | SPD (71 hl., 10,57 %) | STAN (65 hl., 9,67 %) | PÅ˜ÃSAHA (48 hl., 7,14 %) | StaÄilo! (35 hl., 5,21 %) | nan (20 hl., 2,98 %) | MotoristÃ© (17 hl., 2,53 %) | nan (15 hl., 2,23 %) | PirÃ¡ti (5 hl., 0,74 %) | nan (5 hl., 0,74 %) | nan (2 hl., 0,3 %) | nan (1 hl., 0,15 %)"Æ
+ÃANO (208 hl., 29,34 %) | SPOLU (146 hl., 20,59 %) | SPD (114 hl., 16,08 %) | STAN (95 hl., 13,4 %) | PÅ˜ÃSAHA (31 hl., 4,37 %) | MotoristÃ© (25 hl., 3,53 %) | StaÄilo! (22 hl., 3,1 %) | nan (18 hl., 2,54 %) | PirÃ¡ti (17 hl., 2,4 %) | nan (12 hl., 1,69 %) | nan (9 hl., 1,27 %) | nan (3 hl., 0,42 %) | nan (1 hl., 0,14 %)"Æ
+ÃANO (230 hl., 35,71 %) | SPD (119 hl., 18,48 %) | SPOLU (80 hl., 12,42 %) | STAN (71 hl., 11,02 %) | PÅ˜ÃSAHA (34 hl., 5,28 %) | StaÄilo! (29 hl., 4,5 %) | PirÃ¡ti (22 hl., 3,42 %) | nan (21 hl., 3,26 %) | MotoristÃ© (16 hl., 2,48 %) | nan (7 hl., 1,09 %) | nan (6 hl., 0,93 %) | nan (3 hl., 0,47 %) | nan (1 hl., 0,16 %)"Æ
+ÃANO (254 hl., 31,79 %) | SPOLU (209 hl., 26,16 %) | STAN (105 hl., 13,14 %) | SPD (69 hl., 8,64 %) | PÅ˜ÃSAHA (47 hl., 5,88 %) | StaÄilo! (26 hl., 3,25 %) | nan (25 hl., 3,13 %) | MotoristÃ© (24 hl., 3,0 %) | nan (13 hl., 1,63 %) | PirÃ¡ti (12 hl., 1,5 %) | nan (5 hl., 0,63 %) | nan (3 hl., 0,38 %) | nan (2 hl., 0,25 %)"Ç
+ÄANO (190 hl., 35,58 %) | SPD (105 hl., 19,66 %) | SPOLU (74 hl., 13,86 %) | STAN (53 hl., 9,93 %) | PÅ˜ÃSAHA (29 hl., 5,43 %) | MotoristÃ© (21 hl., 3,93 %) | PirÃ¡ti (14 hl., 2,62 %) | nan (13 hl., 2,43 %) | nan (12 hl., 2,25 %) | StaÄilo! (11 hl., 2,06 %) | nan (5 hl., 0,94 %) | nan (2 hl., 0,37 %) | nan (1 hl., 0,19 %)"Ç
+ÄANO (227 hl., 35,64 %) | SPOLU (106 hl., 16,64 %) | SPD (98 hl., 15,38 %) | STAN (61 hl., 9,58 %) | StaÄilo! (41 hl., 6,44 %) | PÅ˜ÃSAHA (32 hl., 5,02 %) | MotoristÃ© (20 hl., 3,14 %) | PirÃ¡ti (13 hl., 2,04 %) | nan (13 hl., 2,04 %) | nan (11 hl., 1,73 %) | nan (5 hl., 0,78 %) | nan (4 hl., 0,63 %) | nan (2 hl., 0,31 %)"Ç
+ÄANO (267 hl., 37,82 %) | SPD (114 hl., 16,15 %) | SPOLU (109 hl., 15,44 %) | STAN (57 hl., 8,07 %) | StaÄilo! (46 hl., 6,52 %) | PÅ˜ÃSAHA (31 hl., 4,39 %) | MotoristÃ© (30 hl., 4,25 %) | PirÃ¡ti (14 hl., 1,98 %) | nan (12 hl., 1,7 %) | nan (11 hl., 1,56 %) | nan (5 hl., 0,71 %) | nan (3 hl., 0,42 %) | nan (2 hl., 0,28 %)"È
+ÅANO (255 hl., 36,32 %) | SPOLU (152 hl., 21,65 %) | STAN (88 hl., 12,54 %) | SPD (58 hl., 8,26 %) | PÅ˜ÃSAHA (43 hl., 6,13 %) | StaÄilo! (24 hl., 3,42 %) | MotoristÃ© (23 hl., 3,28 %) | nan (14 hl., 1,99 %) | nan (13 hl., 1,85 %) | PirÃ¡ti (12 hl., 1,71 %) | nan (10 hl., 1,42 %) | nan (6 hl., 0,85 %) | nan (2 hl., 0,28 %)"È
+ÅANO (264 hl., 33,42 %) | SPOLU (178 hl., 22,53 %) | SPD (104 hl., 13,16 %) | STAN (100 hl., 12,66 %) | PÅ˜ÃSAHA (36 hl., 4,56 %) | StaÄilo! (36 hl., 4,56 %) | MotoristÃ© (29 hl., 3,67 %) | nan (20 hl., 2,53 %) | nan (7 hl., 0,89 %) | PirÃ¡ti (5 hl., 0,63 %) | nan (5 hl., 0,63 %) | nan (2 hl., 0,25 %) | nan (1 hl., 0,13 %)"Ñ
+ÎSPD (62 hl., 16,76 %) | SPOLU (33 hl., 8,92 %) | StaÄilo! (29 hl., 7,84 %) | PÅ˜ÃSAHA (24 hl., 6,49 %) | STAN (19 hl., 5,14 %) | MotoristÃ© (18 hl., 4,86 %) | nan (9 hl., 2,43 %) | PirÃ¡ti (1 hl., 0,27 %)"Û
+ØANO (59 hl., 46,09 %) | SPD (26 hl., 20,31 %) | SPOLU (16 hl., 12,5 %) | STAN (11 hl., 8,59 %) | nan (7 hl., 5,47 %) | PÅ˜ÃSAHA (5 hl., 3,91 %) | nan (2 hl., 1,56 %) | nan (1 hl., 0,78 %) | StaÄilo! (1 hl., 0,78 %)"Û
+ØANO (149 hl., 27,95 %) | SPOLU (122 hl., 22,89 %) | STAN (86 hl., 16,14 %) | SPD (47 hl., 8,82 %) | PÅ˜ÃSAHA (36 hl., 6,75 %) | nan (31 hl., 5,82 %) | StaÄilo! (16 hl., 3,0 %) | MotoristÃ© (14 hl., 2,63 %) | PirÃ¡ti (11 hl., 2,06 %) | nan (9 hl., 1,69 %) | nan (4 hl., 0,75 %) | nan (3 hl., 0,56 %) | nan (2 hl., 0,38 %) | nan (1 hl., 0,19 %)"ë
+èANO (182 hl., 34,6 %) | SPOLU (102 hl., 19,39 %) | STAN (78 hl., 14,83 %) | SPD (58 hl., 11,03 %) | StaÄilo! (30 hl., 5,7 %) | MotoristÃ© (26 hl., 4,94 %) | PÅ˜ÃSAHA (22 hl., 4,18 %) | nan (5 hl., 0,95 %) | PirÃ¡ti (5 hl., 0,95 %)"ì
+éANO (179 hl., 33,65 %) | SPOLU (116 hl., 21,8 %) | SPD (78 hl., 14,66 %) | STAN (66 hl., 12,41 %) | MotoristÃ© (20 hl., 3,76 %) | StaÄilo! (18 hl., 3,38 %) | PÅ˜ÃSAHA (17 hl., 3,2 %) | nan (10 hl., 1,88 %) | PirÃ¡ti (7 hl., 1,32 %)"ö
+óANO (42 hl., 33,6 %) | SPD (17 hl., 13,6 %) | SPOLU (17 hl., 13,6 %) | STAN (15 hl., 12,0 %) | StaÄilo! (14 hl., 11,2 %) | PirÃ¡ti (8 hl., 6,4 %) | nan (8 hl., 6,4 %) | PÅ˜ÃSAHA (2 hl., 1,6 %) | nan (1 hl., 0,8 %) | MotoristÃ© (1 hl., 0,8 %)"ü
+ùANO (34 hl., 32,38 %) | SPD (17 hl., 16,19 %) | STAN (16 hl., 15,24 %) | SPOLU (14 hl., 13,33 %) | PÅ˜ÃSAHA (9 hl., 8,57 %) | MotoristÃ© (5 hl., 4,76 %) | nan (5 hl., 4,76 %) | nan (2 hl., 1,9 %) | PirÃ¡ti (2 hl., 1,9 %) | StaÄilo! (1 hl., 0,95 %)"ü
+ùANO (41 hl., 28,08 %) | SPOLU (26 hl., 17,81 %) | STAN (23 hl., 15,75 %) | StaÄilo! (19 hl., 13,01 %) | SPD (17 hl., 11,64 %) | MotoristÃ© (7 hl., 4,79 %) | PÅ˜ÃSAHA (5 hl., 3,42 %) | nan (4 hl., 2,74 %) | nan (2 hl., 1,37 %) | nan (1 hl., 0,68 %)"ı
+úANO (56 hl., 47,46 %) | SPD (16 hl., 13,56 %) | STAN (14 hl., 11,86 %) | SPOLU (11 hl., 9,32 %) | MotoristÃ© (7 hl., 5,93 %) | PÅ˜ÃSAHA (6 hl., 5,08 %) | StaÄilo! (4 hl., 3,39 %) | nan (2 hl., 1,69 %) | PirÃ¡ti (1 hl., 0,85 %) | nan (1 hl., 0,85 %)"ÿ
+üANO (156 hl., 40,1 %) | SPD (77 hl., 19,79 %) | STAN (45 hl., 11,57 %) | SPOLU (38 hl., 9,77 %) | StaÄilo! (21 hl., 5,4 %) | PÅ˜ÃSAHA (18 hl., 4,63 %) | MotoristÃ© (16 hl., 4,11 %) | nan (8 hl., 2,06 %) | PirÃ¡ti (4 hl., 1,03 %) | nan (2 hl., 0,51 %)"‚
+ÿANO (185 hl., 34,77 %) | SPOLU (110 hl., 20,68 %) | STAN (73 hl., 13,72 %) | SPD (50 hl., 9,4 %) | StaÄilo! (32 hl., 6,02 %) | PÅ˜ÃSAHA (24 hl., 4,51 %) | nan (20 hl., 3,76 %) | MotoristÃ© (12 hl., 2,26 %) | nan (5 hl., 0,94 %) | PirÃ¡ti (4 hl., 0,75 %)"  &B"  .B"  6B"  ^B"  vB"  ‰B"  B"  ‘B"  ™B"	33333Q@"	333333C@"	333333J@"	333333K@"	333333P@"	33333sO@"	33333³F@"	33333³J@"	33333³L@"	33333óE@"	33333óL@"	33333óN@"	33333óP@"	33333óQ@"	fffff&@@"	fffff&E@"	fffff&F@"	fffff&L@"	fffff&N@"	fffff&Q@"	fffffFP@"	ffffffH@"	ffffffO@"	fffff¦N@"	fffff¦R@"	fffffÆQ@"	fffffæD@"	fffffæH@"	fffffæM@"	fffffæP@"	š™™™™B@"	š™™™™Q@"	š™™™™YC@"	š™™™™YE@"	š™™™™YF@"	š™™™™YN@"	š™™™™™I@"	š™™™™™M@"	š™™™™™R@"	š™™™™¹R@"	š™™™™ÙP@"	š™™™™ÙQ@"	ÍÌÌÌÌE@"	ÍÌÌÌÌP@"	ÍÌÌÌÌLL@"	ÍÌÌÌÌŒG@"	ÍÌÌÌÌŒJ@"	ÍÌÌÌÌŒO@"	ÍÌÌÌÌ¬Q@"	ÍÌÌÌÌÌ7@"	ÍÌÌÌÌÌC@"	ÍÌÌÌÌÌQ@" " " " " " " " " 	" 
+" " " " " " " " " " " " " " " " " " " " " "  " !" "" #" $" %" &" '" (" /" 4" 5" 7" BÅ 	í¸ˆ "­	ŒŸ‚	
 ,t	#) 
 " 
   $"
@@ -198,7 +198,7 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 /)&O4%
 .-	
 '		 /	 )'	!%	3	7'	  	 7!%-! Å
-› í.Ã¦ "ƒ	Ÿ¦	ê"&."8  
+š í.Ã~ "ƒ	Ÿ¦	ê"&."8  
   
 (8
 4 
@@ -210,14 +210,14 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
  
 $ H- 
 .A!M.Y 1v! ˜<
-42"`4/Me	('4!Ş ía¹‡ "Æ	5ÂÊ6*b R>$"/T	D"
+42"`4/Me	('4!Ş ía¹† "Æ	5ÂÊ6*b R>$"/T	D"
 `R@TH(++
 9 0"
  L
 F$  
 ^ÔzbT–$:f\`z¦W¶"9@G?31@—M3Q
 ¥w¥Q=M‡#)'O!(-P60#2)*/
-3íq%	+ Å	$q3 í'Â  "	Wî?RZ"x$ ®@¿  k × ğ!´“ "¿	€#ŸÒ	
+3íq%	+ Å	$q3 í'Â "	Wî?RZ"x$ ®@¿  k Ö ğ!´h "¿	€#ŸÒ	
 
 6Jrp8+"+, '.(	), )"S9&/ )+93+#
  $3I)@bJ+\</.2<"
@@ -225,112 +225,112 @@ CIS_OKRSEKNÃ¡zev okrskuObec/MÄ›stskÃ¡ ÄÃ¡stVolebnÃ­ ÃºÄast (v %)	VÃ½sle
 	 !!+/? !!
 % 1*.'/9'! # 	!	* $
 +s	
-š íbßz "ƒ	Ş(ŸŠ
+› íbß— "ƒ	Ş(ŸŠ
 ZT &K39'[I2   £qI5			ô
  Z
 K)KB
 5))Ÿ>UQ#	˜	 2,FqF5)!/	; 
-	ã íÒ† "Ë	 AŸŠ öI*==	I0h	C />	s$.E	M!  /'5	 A&-!'7		$H5''A*3.	5'&
-	 1!1!*!&/*%/@=1TI)!M3M+cKç üDÆj "Ğ	²â‚
+	â íÒr "Ë	 AŸŠ öI*==	I0h	C />	s$.E	M!  /'5	 A&-!'7		$H5''A*3.	5'&
+	 1!1!*!&/*%/@=1TI)!M3M+cKè üDÆ™ "Ğ	²â‚
  $$6.$02 >"
 " &4Z4$ (&&<0
 
 06:R.$DF"|,:
 "%$& ¯N?Eƒ  A%M-!;+W`G';­%I+ K7&GN3.-'WS
 1A 9,WjiE§nS95)+œ#r ¹"3('
-Nf03_!13	;—"2u ZN-"B-	 .GŞ úBÕ¯ "Æ	Ø
+Nf03_!13	;—"2u ZN-"B-	 .GŞ úBÕ˜ "Æ	Ø
 ÄÚO@
 %@8LB0x'6	7'-+:x7bXU`(""%,*
 RH
 (:ı†%?E0A8=.ïx#	
 9•A0Qu/
 !Š¡tI0;m_	!
-C0S#!Q= ;'¨mjFXi:+B2T	h 0X <`'X%41Ö ıEÍr "¿	ô´Ú0*$	,LlHB^ Z”F\$$B;$&	L: 8*$(2 .)F "!*",
+C0S#!Q= ;'¨mjFXi:+B2T	h 0X <`'X%41× ıEÍ¨ "¿	ô´Ú0*$	,LlHB^ Z”F\$$B;$&	L: 8*$(2 .)F "!*",
 
 ,	;/%%'3#3Y %!!	=1#/-5%%
-#	-&	P3Ê „Lìm "³	¶
+#	-&	P3Ë „LìŠ "³	¶
 ª¢N H$H@22$°@D$hUV^N%	A8&H.0
 DT(R6J6"- /J$MË-k%%	! 	)
  )"7 '#) 7K9%
-<##A#E[Y“A]>;K˜ ûCØv "	¬ºâ<,".$/")'YJ;w89.,8(
-5w(/A7K&?	P?32W&_(;W /~(.4-HM8%L, J®&<(HM şFÅg "7	¬ÖºZ,8&
-	u¨/5	+		!+)"!J ÿG½ "3	äüª
-	2Y¨7%Y+*E-18 !* *	3 €HÄ¤ "	¾¨Jªvoªo'9v§
-	l ùA¼¡ "U	¨º²&B „F@;:/"9'	QG	+)!&'!V_aW<ZI*(!0#‡ õ&à"ğ	º”’X"2HF6	˜ª8D*$&
+<##A#E[Y“A]>;K™ ûCØ¤ "	¬ºâ<,".$/")'YJ;w89.,8(
+5w(/A7K&?	P?32W&_(;W /~(.4-HM8%L, J®&<(HM şFÅu "7	¬ÖºZ,8&
+	u¨/5	+		!+)"!I ÿG½w "3	äüª
+	2Y¨7%Y+*E-18 !* *	3 €HÄ– "	¾¨Jªvoªo'9v§
+	l ùA¼ "U	¨º²&B „F@;:/"9'	QG	+)!&'!V_aW<ZI*(!0#‡ õ&àk"ğ	º”’X"2HF6	˜ª8D*$&
  
 
 
 	  	T2$ >z#	#F*
 .&].!&%Oc5!#	%!'-%#7%	1 
 3	%!	IQŠU>/5,!#	
- !			?C+CO 	!)1<"#Fm0-P*D$4)“E1+	$>K" Á ŠRÙ‰ "©	¤°â&8 $®ÔND*Ø<G1( )2*
+ !			?C+CO 	!)1<"#Fm0-P*D$4)“E1+	$>K" À ŠRÙm "©	¤°â&8 $®ÔND*Ø<G1( )2*
 [>  %'Y!±KW1+‰cO5325_7#=/MŒ>	0	RJ
 "&4
 	 2
-† ò#À˜ "î	Î¶ú(0:(-)2 & 	"" @ 0","  >J<2*°Ş
+† ò#À… "î	Î¶ú(0:(-)2 & 	"" @ 0","  >J<2*°Ş
 $!5N×$"&J$L.0p70Y4e(µN	G# 
-			 	%#)I7—©*			L ù-İ‹ "5	œà¢(<0B–Z1Ì£1);=I
-6	i ÷+¿ "R	œö¢  K"M0VE>&V„EM•YA/E '
- Bu ø,Ó€ "^	¤²ÒX$26uNg"#%=FUN/L!+A 	(F	 a@5Œ…O ñ"ç® "8	ÆºHF\
-<#I%!#ƒU>6- ö*æi "	€ª:MØ6#"	-92ËN8 XÎx ""	Äöj(2F>&0 (m ?#	3m WÚŒ "V	’Ô²
-4$ @  n ¢8$5 i@)$''/ %ƒ%-	j ó$Ôo "T	°!èš20.H NfŠÑ"O/‰`Ff)  #A!!I
+			 	%#)I7—©*			K ù-İl "5	œà¢(<0B–Z1Ì£1);=I
+6	i ÷+¿  "R	œö¢  K"M0VE>&V„EM•YA/E '
+ Bu ø,Ó "^	¤²ÒX$26uNg"#%=FUN/L!+A 	(F	 a@5Œ…N ñ"çq "8	ÆºHF\
+<#I%!#ƒU>6. ö*æ“ "	€ª:MØ6#"	-92ËN9 XÎ› ""	Äöj(2F>&0 (m ?#	3l WÚt "V	’Ô²
+4$ @  n ¢8$5 i@)$''/ %ƒ%-	k ó$Ô¡ "T	°!èš20.H NfŠÑ"O/‰`Ff)  #A!!I
 Y¢]¿ A
-7)ê_Z38/6l`a ‘Y» "J	®ú
+7)ê_Z38/6l`` ‘Y»v "J	®ú
 ‚*$(0j/-96=%1E'
 
-,y=#I “[±¬ "2	€¢ªBt+?8 	*E(#1 ? S/:5.0K ’Zëƒ "4	ÀÈ²$ 2:$7"	W6#7u@ Q ”\Èp";	¶ÀÊˆ $&)M2
+,y=#I “[± "2	€¢ªBt+?8 	*E(#1 ? S/:5.0J ’Zë} "4	ÀÈ²$ 2:$7"	W6#7u@ R ”\È¥";	¶ÀÊˆ $&)M2
 91 F'
-)7@ª …MÏ§ "’	”´’‚641P6Šd2,LX²!r)07 
+)7@ª …MÏ‡ "’	”´’‚641P6Šd2,LX²!r)07 
  $ 4H  gG-#	‹	CS	/G-%B7
-&]MUgV#?C#¯11G?G#06*(	4 ‡O³„ "	âÆZ8N-M †N²£ "6	Ò¾º;PXz13G #	.*]b ‹SŞs "L	¶êŠ&.(&"
+&]MUgV#?C#¯11G?G#06*(	3 ‡O³n "	âÆZ8N-M †N²ƒ "6	Ò¾º;PXz13G #	.*]b ‹SŞz "L	¶êŠ&.(&"
 $"6L^*
-X8Uæ:2?.;1)*1 '2H;)×MC? ŒT× "(	„€z .X–Y
-"&2ÑÎ1_19] ˆPã– "F	Ôäú"H*
+X8Uæ:2?.;1)*1 '2H;)×MC? ŒT×„ "(	„€z .X–Y
+"&2ÑÎ1_19\ ˆPãj "F	Ôäú"H*
 ((4%&<-J#2wLO4;
-^)M*/Y ‰Q•š "B	Şê<@-2`S21I$;.%&3'	') (&  \=	• í2µq "	À¾Ò><"&œ60<	 
-9ù.2 >>"&"3a$/p(#*2yr8~W/!qiO¥3?5-.AEyW<OP3xKM ‚Jäw "7	²Ø²"2JÆ
+^)M*/Y ‰Q•š "B	Şê<@-2`S21I$;.%&3'	') (&  \=	– í2µ§ "	À¾Ò><"&œ60<	 
+9ù.2 >>"&"3a$/p(#*2yr8~W/!qiO¥3?5-.AEyW<OP3xKM ‚Jäf "7	²Ø²"2JÆ
 
-El©uZ§1# < Iè’ "%	ÂÄr<˜E\40$E!C#-
-p©n ƒKĞ| "X	Ôìª&
+El©uZ§1# ; Ièy "%	ÂÄr<˜E\40$E!C#-
+p©o ƒKĞ¯ "X	Ôìª&
 &.lNÌ#0I.5!I5'QŒ
 $
-.hH24-BÅÚC« 		IÅc ÷?™ª "L	Ä‚Š6.4@P¦bZ @#<!$!2…=%'.5			?GIiF ø@êf "0	şÜ¢Jj@H
+.hH24-BÅÚC« 		IÅc ÷?™• "L	Ä‚Š6.4@P¦bZ @#<!$!2…=%'.5			?GIiG ø@ê‘ "0	şÜ¢Jj@H
 
 
--6(&>9	+{#/37 ö>Ê­ " 	¤ÚR†6¯Î… %&#!? ô9Ã‚ "(	öŠz¤~
-	›ÂYQg ñ6˜© "P	âÜšZ&
-':D0	$)!	/jD6'^)	#;¯‡5"1#"4&œ UÉ” "„	Ô®ê&„Gv	&6!
-'VR$2"	%!=;1 !%	•Z-W%7	W)"&"%r;Y V°ˆ "B	¸àê((#* =(-(U	5"
-%Hu&® î3å "–	€Şª&*"&2H ƒpã%UFW^Yj@B 
-**		 5bW() }7 zq)1'$o0b#4€!!%==1ú-‘ ï4Ë "z	î²v!Z00 :6h*6Ri€£í5'S
+-6(&>9	+{#/37 ö>Ê " 	¤ÚR†6¯Î… %&#!> ô9Ãg "(	öŠz¤~
+	›ÂYQg ñ6˜‰ "P	âÜšZ&
+':D0	$)!	/jD6'^)	#;¯‡5"1#"4&œ UÉ© "„	Ô®ê&„Gv	&6!
+'VR$2"	%!=;1 !%	•Z-W%7	W)"&"%r;Y V°® "B	¸àê((#* =(-(U	5"
+%Hu&­ î3åo "–	€Şª&*"&2H ƒpã%UFW^Yj@B 
+**		 5bW() }7 zq)1'$o0b#4€!!%==1ú-‘ ï4Ë "z	î²v!Z00 :6h*6Ri€£í5'S
 3a6 
 
-))	 ?AZiX]VE&ä´•ş ğ5–Ÿ "æ	¼!æÂ‚<&–R!	j^ >(„L 3(
+))	 ?AZiX]VE&ä´•ı ğ5–s "æ	¼!æÂ‚<&–R!	j^ >(„L 3(
 £F_F•Le*<Nt:&")&É‚Qµ?y‹AY5$;
 1‹9)'+$06,"5JUS()%(!+%1$*
 (]5iC0
 "*#
-/C9(	Y%#H%$; ? "(Z*X'4T	(î6¤ õ:Ü‘ "w	ÀÖ¢†‚ZR?N!cjGQ
+/C9(	Y%#H%$; ? "(Z*X'4T	(î6¤ õ:Üx "w	ÀÖ¢†‚ZR?N!cjGQ
 "&
-\TfvÿQc1+$%U)4/>M‰'!9/,<#ğw>-B7F/&@Œ!0<9 í;µn "‡	Ÿ€*¢ , 
+\TfvÿQc1+$%U)4/>M‰'!9/,<#ğw>-B7F/&@Œ!0<9Ÿ í;µŸ "‡	Ÿ€*¢ , 
 &îr	4)01*/$5O'.P"(*ˆ$N>¦R¦x	‚RN4?˜ c)*E:78&,"H8
 	)P<^#L!Š¸Q 'r'€4w#Y!@	¦­ º
 RvB/:–
 	$$  ;+0":(NŠ0=*3V&#,2'‚„zFt;"U"’8 .…‚
  **&	(9	>f.qrC:+,"ƒ€$.4$blth&"ZZ)*40.›T-
-	%$7A?A#'5Qa	 	#+;-A3U	)X&8!§}?:!Xµy¥[_9e#S•ya]Ó 	 #E	K 	/! :	,,G'?S<J/¢s‰"	¦ ó8Ë "	ÌØê2""%2_xPN&$64B¶­,68d%B­¨8Lhv‰îi.Gwe1=+Ñ!2]'7£k9€euS€[	!%	HRdi"Ü
-	¿ ò7Á› "§	Ì¤¢2&",&''*VTI6!5+/#,*(Œ:2<	6#ZBŒz@R¶#
+	%$7A?A#'5Qa	 	#+;-A3U	)X&8!§}?:!Xµy¥[_9e#S•ya]Ó 	 #E	K 	/! :	,,G'?S<J/¢s‰"	¦ ó8ËŒ "	ÌØê2""%2_xPN&$64B¶­,68d%B­¨8Lhv‰îi.Gwe1=+Ñ!2]'7£k9€euS€[	!%	HRdi"Ü
+	¿ ò7Á‹ "§	Ì¤¢2&",&''*VTI6!5+/#,*(Œ:2<	6#ZBŒz@R¶#
 )8&  /		
  gDAJ60HJ&0'>8EXGL-F‘§		‡Ê.
 
-7\')'#µÜ+1	+D9K"+·U7)G'	'C/$#_i×E ‘7V!<!Esy*¡R"l¤(81^Ò">,2fHxj-Šígu7K®§&A7c+5µ®3A#5%OM`w&1!ü 	ícá— "ä	òš(’
+7\')'#µÜ+1	+D9K"+·U7)G'	'C/$#_i×E ‘7V!<!Esy*¡R"l¤(81^Ò">,2fHxj-Šígu7K®§&A7c+5µ®3A#5%OM`w&1!ü ícá‚ "ä	òš(’
 ˆ.J&4:jRîz°ª¹#ÔO@0fr,%Ò^  `3:")	U44bBTPyÈ}f'AM#§w)íÓ	E7—qmM!)U? :,{/;/2¥w/39q /; #1J%%	&# 
 	.œS/-3*)YY%!sgak3##-„!,+D9rqe-=:
 
 ')%)	†H`j#$0D(
 H(8*ªR(,L!:,C
-,2¶Û($(*8[		-ˆÉP î—• "9	ì ğÂ.!*, I::5;	w*	!1;,'"+H2V%)!9
-û ï Ñu "ä	Â'(ê
+,2¶Û($(*8[		-ˆÉO î—i "9	ì ğÂ.!*, I::5;	w*	!1;,'"+H2V%)!9
+ü ï Ñ£ "ä	Â'(ê
 *
 
  
@@ -338,15 +338,15 @@ H(8*ªR(,L!:,C
  	$	 2P>1<A8,'L	%?œ4
 
 ‡W']Sk))OWŸ+")-	:"*U&G1&;,[Ia*?J4# 	,$:4*, %0T:*!*+
-'-( +4),, Ë ô%Ç¨ "³	Ä Ô	Š0ŠP¬/ŞqL+b=6H6:j >!  ?KŸaA7ù1 û-A!	i7? S1
+'-( +4),, Ê ô%Çp "³	Ä Ô	Š0ŠP¬/ŞqL+b=6H6:j >!  ?KŸaA7ù1 û-A!	i7? S1
 ,
-28*B	 ^ÀZ¡ 	J"B"$ * eE_ íºŠ "j	¨#ÈòP**lT(^XˆFHÖ$(2,
+28*B	 ^ÀZ¡ 	J"B"$ * eE_ íº "j	¨#ÈòP**lT(^XˆFHÖ$(2,
 NeHXI!;	#5İrYe‰M-G1/—f_5k!K#-20ª?
-<69J9æ í(µœ "Î	ğ%˜â	L @ (BZ&BR38 "(8|˜/	4'cB“v%A(,VB|tVR  ±âdPP‚4:s.5S$9@ÒƒK='i]
+<69J9æ í(µ’ "Î	ğ%˜â	L @ (BZ&BR38 "(8|˜/	4'cB“v%A(,VB|tVR  ±âdPP‚4:s.5S$9@ÒƒK='i]
 "•Q%;Q5g)59//"WwlI:9S)%)
 ;/›5
 1!#Q.>' ˆSU
-8!	N1*%##	0ú8Bbí í/Ìt "Ö	¼)ˆú0
+8!	N1*%##	0ú8Bbî í/Ì« "Ö	¼)ˆú0
 4<.&4pœš,>.Cş
  B0
  
@@ -356,7 +356,7 @@ H(8*ªR(,L!:,C
 B (	²9
 8&
 ee¨—L	8<y¥GS7UME7O1+]C?=?Ñ:T#6t-39OcO²á UQ{sUA'+B&”udA(
-3÷ í<Ò¢ "ß	â5ŸªdLN,N4*"SJ>20? & 0)"%")2"2 	
+3ö í<Ò{ "ß	â5ŸªdLN,N4*"SJ>20? & 0)"%")2"2 	
 %(6
 -)4(B(6#G
 
@@ -374,44 +374,44 @@ A,O_(/K)O,7	' +!&H" "_P]"	!³k_+ERE<;TIL' 
 (K+B7;=21O 
 
 # 	 /	)	 	)	/- 1\J:(L4%YS	Z $VR =**6	LA*L	¶ 
-	< "06*rE+EÙ í`â« "Á	ğ=–²	,t ê /]E!	; ')‡?7Y3Yc5K%=#)]1A)2/L941P;n•=Au
+	< "06*rE+EÙ í`â” "Á	ğ=–²	,t ê /]E!	; ')‡?7Y3Yc5K%=#)]1A)2/L941P;n•=Au
 i;!3+3		
 #As+7!G;…-M%?	gG!
 cOı#{3C:K'	£	'
  /	 /	A) Dı+( JK<SF;FQ,`l´"€
 ^!`O+ --%G," (
-8+*P0L`'PB+&	@		¢crS`Y	A)Ê í0Ö} "³	Ä'²ò@>^D2,b J8\TT8¦H²T8 ($;pvd*H@>B$.6$J&PFd<ªm‚[(0@
+8+*P0L`'PB+&	@		¢crS`Y	A)Ë í0Öœ "³	Ä'²ò@>^D2,b J8\TT8¦H²T8 ($;pvd*H@>B$.6$J&PFd<ªm‚[(0@
 "$VFYI2:->QTO	 ,
 6>_7¡Y!! kp®!%]
 ?PS'F*G#B.%-D/5<0,?+	 EÆ	(…£íyiQ39%'%C]».EHKFW7(=/%GI5/@GhC 	
 
-0  %*7î‹*%!%9sM;)f–K`E¤E	4'¿ í=Ò™"§	‚%Ê1ÚÖú
+0  %*7î‹*%!%9sM;)f–K`E¤E	4'¾ í=Ò"§	‚%Ê1ÚÖú
  ÀtÔ  NF*Y *D&.%*$t\1z3`
 ",28NR~Nß ;)m 1WM	_[#=!_/~ezÇOSAa3V3*
-!49_]&Ñq+e/?P$ÓºØ í_¶~ "Á	˜1,º	¢Z`8> <P~œ .L/T	$  P"8&b
+!49_]&Ñq+e/?P$ÓºÙ í_¶¬ "Á	˜1,º	¢Z`8> <P~œ .L/T	$  P"8&b
 p1XLNd@:%h#/fD&L040J
 ()Ek‚x+'%9A	h7 ;4™+y8B<c¥'D;Fs  }MMQ17!+	4_2y[s#)&%-)CZ)EMÅ¿
 'FÅ 
-@,+/;60 C.&-$AH)ET(O@^	&"­lo"ê í]·h "Ó	Î2äŠş$P	d"Hh
+@,+/;60 C.&-$AH)ET(O@^	&"­lo"ê í]·| "Ó	Î2äŠş$P	d"Hh
 @&N†.<H"8t,B	$
 
 4,4"<	jvB>m–O<32K:C>?:?&'O(M*_9A7\©nI)OE!#5#I5#-=AG?)uc<o'#7P&;
 7K˜f§f	7%	:
-±'A'	,—|› í1Õl "„	®9¨'²B*^2*>$L&d6ZZ48@ˆ*( <
+±'A'	,—|œ í1Õ­ "„	®9¨'²B*^2*>$L&d6ZZ48@ˆ*( <
 "^F0 ’%X20];CA	ˆk‡‡1)ÍB¹ñƒ,¤ (9?$gk3&g9?cMKW2	o€a%7!O #
 S0K- ›}O; ]/	 +P
-SR=.91ZJE#U	!lD%P'(@%² í)¾y "›	š¬2â.,0*¢x€"7%*W
+SR=.91ZJE#U	!lD%P'(@%³ 
+í)¾¢ "›	š¬2â.,0*¢x€"7%*W
 4V.B,<$
 
  bR40dj 8B,
 & &‚I2 $<0 r:04¦x10<|0+ 9V@*"nN˜rF8
 îÔ*¨x$.6B `0>"\$`N
 X2‡# ­? 3(q( R·"‰K$];O*
-	7G‚!+%87F9*)d	˜ ô*<º 
-í^˜… "¢	€+œA 	ˆ ŠE<C¦(d;A7z,š3<8 gB
+	7G‚!+%87F9*)d	˜ ô*<º í^˜€ "¢	€+œA 	ˆ ŠE<C¦(d;A7z,š3<8 gB
 :&(,wlF*'	I3// KC%0eH#h@:'+£ò„AºÎ*ˆ2ˆl
-‡BD<^Px’ ídé¥ "{	ö?ÂÂ
+‡BD<^Px’ ídé¦ "{	ö?ÂÂ
 >>J) Ì	s+Kg/Ó i5­'33	!	/ 5AON921	-D4_  N"
  F-t#
 =0 D
-/g( íeÛk "	 A>* ‚m w"&g
+/g) íeÛª "	 A>* ‚m w"&g
